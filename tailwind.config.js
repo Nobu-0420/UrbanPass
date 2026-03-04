@@ -12,6 +12,7 @@ export default {
       },
       fontFamily: {
         sans: ['Noto Sans JP', 'Inter', 'system-ui', 'sans-serif'],
+        serif: ['Noto Serif JP', 'Georgia', 'serif'],
       },
       letterSpacing: {
         wide: '0.05em',
