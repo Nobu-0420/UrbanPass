@@ -1,7 +1,6 @@
 import './globals.css';
 import { Noto_Sans_JP } from 'next/font/google';
 
-// Noto Sans JP は next/font で最適化。Serif は Google CSS 経由（Vercel ビルドで next/font の weight 検証エラーを避ける）
 const notoSans = Noto_Sans_JP({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
