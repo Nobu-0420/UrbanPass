@@ -1,36 +1,32 @@
 # Dependencies
 node_modules/
+.pnp
+.pnp.js
 
 # Build
-dist/
-dist-ssr/
 .next/
-*.local
+out/
+build/
+dist/
 
-# Logs
-logs/
-*.log
+# Debug
 npm-debug.log*
-pnpm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Editor
-.vscode/*
-!.vscode/extensions.json
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
-# OS
-.DS_Store
-Thumbs.db
+.pnpm-debug.log*
 
 # Env
 .env
 .env.local
 .env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel
 .vercel

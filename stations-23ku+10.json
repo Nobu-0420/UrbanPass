@@ -1,0 +1,6258 @@
+{
+  "_comment": "Data Source: Open Data / Analysis by Swappee. 東京都23区の駅一覧（駅データCSVから抽出）",
+  "generated": "2026-02-03",
+  "sourceCsv": "station20251211free.csv",
+  "count": 468,
+  "rowCount23": 744,
+  "note": "rowCount23=CSVの23区該当行数。count=ユニーク駅数(23区458+23区外勤務地候補10)。",
+  "stations": [
+    {
+      "station_cd": "2800211",
+      "station_g_cd": "2800211",
+      "station_name": "霞ケ関",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区霞が関２丁目",
+      "lon": 139.750899,
+      "lat": 35.673838,
+      "line_cds": [
+        "28002",
+        "28003",
+        "28005"
+      ]
+    },
+    {
+      "station_cd": "9930408",
+      "station_g_cd": "9930408",
+      "station_name": "岩本町",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区神田岩本町１",
+      "lon": 139.775866,
+      "lat": 35.695534,
+      "line_cds": [
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "2800407",
+      "station_g_cd": "2800407",
+      "station_name": "九段下",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区九段南１-６-１",
+      "lon": 139.751948,
+      "lat": 35.695589,
+      "line_cds": [
+        "28004",
+        "28008",
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "1131203",
+      "station_g_cd": "1131203",
+      "station_name": "御茶ノ水",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区神田駿河台二丁目6-1",
+      "lon": 139.764955,
+      "lat": 35.699605,
+      "line_cds": [
+        "11312",
+        "11313",
+        "28002",
+        "28005",
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "2800615",
+      "station_g_cd": "2800615",
+      "station_name": "麹町",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "東京都千代田区麹町三丁目2",
+      "lon": 139.737613,
+      "lat": 35.684006,
+      "line_cds": [
+        "28006"
+      ]
+    },
+    {
+      "station_cd": "2800212",
+      "station_g_cd": "2800212",
+      "station_name": "国会議事堂前",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区永田町１丁目",
+      "lon": 139.745219,
+      "lat": 35.67393,
+      "line_cds": [
+        "28002",
+        "28005"
+      ]
+    },
+    {
+      "station_cd": "2800617",
+      "station_g_cd": "2800617",
+      "station_name": "桜田門",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "東京都千代田区霞が関二丁目1-1",
+      "lon": 139.75149,
+      "lat": 35.677405,
+      "line_cds": [
+        "28006"
+      ]
+    },
+    {
+      "station_cd": "1131315",
+      "station_g_cd": "1131315",
+      "station_name": "市ケ谷",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区五番町2-1",
+      "lon": 139.735583,
+      "lat": 35.691,
+      "line_cds": [
+        "11313",
+        "28006",
+        "28009",
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "1130222",
+      "station_g_cd": "1130222",
+      "station_name": "秋葉原",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "東京都千代田区外神田一丁目17",
+      "lon": 139.773288,
+      "lat": 35.698619,
+      "line_cds": [
+        "11302",
+        "11313",
+        "11332",
+        "28003",
+        "99309"
+      ]
+    },
+    {
+      "station_cd": "1130223",
+      "station_g_cd": "1130223",
+      "station_name": "神田",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "東京都千代田区鍛冶町二丁目13-1",
+      "lon": 139.770641,
+      "lat": 35.691173,
+      "line_cds": [
+        "11302",
+        "11312",
+        "11332",
+        "28001"
+      ]
+    },
+    {
+      "station_cd": "2800807",
+      "station_g_cd": "2800807",
+      "station_name": "神保町",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区神田神保町２-２",
+      "lon": 139.757606,
+      "lat": 35.695966,
+      "line_cds": [
+        "28008",
+        "99303",
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "1131317",
+      "station_g_cd": "1131317",
+      "station_name": "水道橋",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区神田三崎町二丁目22-1",
+      "lon": 139.754312,
+      "lat": 35.702039,
+      "line_cds": [
+        "11313",
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2800208",
+      "station_g_cd": "2800208",
+      "station_name": "大手町",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区大手町１丁目",
+      "lon": 139.7662,
+      "lat": 35.686564,
+      "line_cds": [
+        "28002",
+        "28004",
+        "28005",
+        "28008",
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2800408",
+      "station_g_cd": "2800408",
+      "station_name": "竹橋",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区一ツ橋１-１-１",
+      "lon": 139.756817,
+      "lat": 35.690662,
+      "line_cds": [
+        "28004"
+      ]
+    },
+    {
+      "station_cd": "1130101",
+      "station_g_cd": "1130101",
+      "station_name": "東京",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "東京都千代田区丸の内一丁目",
+      "lon": 139.766103,
+      "lat": 35.681391,
+      "line_cds": [
+        "11301",
+        "11302",
+        "11308",
+        "11311",
+        "11312",
+        "11314",
+        "11319",
+        "11326",
+        "11328",
+        "11332",
+        "11343",
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "9930307",
+      "station_g_cd": "9930307",
+      "station_name": "内幸町",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区内幸町２-２-３",
+      "lon": 139.75561,
+      "lat": 35.66975,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2800511",
+      "station_g_cd": "2800511",
+      "station_name": "二重橋前",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区丸の内２丁目",
+      "lon": 139.761948,
+      "lat": 35.681071,
+      "line_cds": [
+        "28005"
+      ]
+    },
+    {
+      "station_cd": "2800805",
+      "station_g_cd": "2800805",
+      "station_name": "半蔵門",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区麹町１-６",
+      "lon": 139.74163,
+      "lat": 35.685703,
+      "line_cds": [
+        "28008"
+      ]
+    },
+    {
+      "station_cd": "1131316",
+      "station_g_cd": "1131316",
+      "station_name": "飯田橋",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "東京都千代田区飯田橋四丁目10-2",
+      "lon": 139.745143,
+      "lat": 35.701835,
+      "line_cds": [
+        "11313",
+        "28004",
+        "28006",
+        "28009",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2800106",
+      "station_g_cd": "2800106",
+      "station_name": "末広町",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区外神田４-７-３",
+      "lon": 139.771713,
+      "lat": 35.702972,
+      "line_cds": [
+        "28001"
+      ]
+    },
+    {
+      "station_cd": "1130225",
+      "station_g_cd": "1130225",
+      "station_name": "有楽町",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "東京都千代田区有楽町二丁目9",
+      "lon": 139.763806,
+      "lat": 35.675441,
+      "line_cds": [
+        "11302",
+        "11332",
+        "28003",
+        "28005",
+        "28006",
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2800114",
+      "station_g_cd": "2800114",
+      "station_name": "溜池山王",
+      "station_name_k": "",
+      "ward": "千代田区",
+      "address": "千代田区永田町２-１１-１",
+      "lon": 139.741419,
+      "lat": 35.673621,
+      "line_cds": [
+        "28001",
+        "28009"
+      ]
+    },
+    {
+      "station_cd": "2800310",
+      "station_g_cd": "2800310",
+      "station_name": "茅場町",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区日本橋茅場町１-４-６",
+      "lon": 139.780005,
+      "lat": 35.679752,
+      "line_cds": [
+        "28003",
+        "28004"
+      ]
+    },
+    {
+      "station_cd": "2800110",
+      "station_g_cd": "2800110",
+      "station_name": "京橋",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区京橋２-２-１０",
+      "lon": 139.770126,
+      "lat": 35.676856,
+      "line_cds": [
+        "28001",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "2800111",
+      "station_g_cd": "2800111",
+      "station_name": "銀座",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区銀座４-１-２",
+      "lon": 139.763965,
+      "lat": 35.671989,
+      "line_cds": [
+        "28001",
+        "28002",
+        "28003",
+        "28006"
+      ]
+    },
+    {
+      "station_cd": "2800621",
+      "station_g_cd": "2800621",
+      "station_name": "月島",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "東京都中央区月島一丁目3-9",
+      "lon": 139.784233,
+      "lat": 35.664871,
+      "line_cds": [
+        "28006",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "9930118",
+      "station_g_cd": "9930118",
+      "station_name": "勝どき",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区勝どき２-１０-１５",
+      "lon": 139.776442,
+      "lat": 35.658507,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2800308",
+      "station_g_cd": "2800308",
+      "station_name": "小伝馬町",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区日本橋小伝馬町１１-１",
+      "lon": 139.778433,
+      "lat": 35.690737,
+      "line_cds": [
+        "28003"
+      ]
+    },
+    {
+      "station_cd": "1131402",
+      "station_g_cd": "1131402",
+      "station_name": "新日本橋",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区日本橋室町４丁目",
+      "lon": 139.77323,
+      "lat": 35.688687,
+      "line_cds": [
+        "11314",
+        "28001",
+        "28008"
+      ]
+    },
+    {
+      "station_cd": "2800309",
+      "station_g_cd": "2800309",
+      "station_name": "人形町",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区日本橋人形町２-６-５",
+      "lon": 139.782285,
+      "lat": 35.686307,
+      "line_cds": [
+        "28003",
+        "28008",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "2800312",
+      "station_g_cd": "2800312",
+      "station_name": "築地",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区築地３-１５-１",
+      "lon": 139.772603,
+      "lat": 35.668115,
+      "line_cds": [
+        "28003",
+        "28006"
+      ]
+    },
+    {
+      "station_cd": "9930119",
+      "station_g_cd": "9930119",
+      "station_name": "築地市場",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区築地５-１-２",
+      "lon": 139.766915,
+      "lat": 35.664895,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2800313",
+      "station_g_cd": "2800313",
+      "station_name": "東銀座",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区銀座４-１２-１５",
+      "lon": 139.767253,
+      "lat": 35.669464,
+      "line_cds": [
+        "28003",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "2800109",
+      "station_g_cd": "2800109",
+      "station_name": "日本橋",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区日本橋１丁目",
+      "lon": 139.773516,
+      "lat": 35.682078,
+      "line_cds": [
+        "28001",
+        "28004",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "1131403",
+      "station_g_cd": "1131403",
+      "station_name": "馬喰町",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区日本橋馬喰町１丁目",
+      "lon": 139.78238,
+      "lat": 35.693365,
+      "line_cds": [
+        "11314",
+        "99302",
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "1132602",
+      "station_g_cd": "1132602",
+      "station_name": "八丁堀",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区八丁堀３丁目",
+      "lon": 139.777705,
+      "lat": 35.674617,
+      "line_cds": [
+        "11326",
+        "28003"
+      ]
+    },
+    {
+      "station_cd": "9930410",
+      "station_g_cd": "9930410",
+      "station_name": "浜町",
+      "station_name_k": "",
+      "ward": "中央区",
+      "address": "中央区日本橋浜町２-５９-３",
+      "lon": 139.788154,
+      "lat": 35.688516,
+      "line_cds": [
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "9931106",
+      "station_g_cd": "9931106",
+      "station_name": "お台場海浜公園",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区台場２-３",
+      "lon": 139.778607,
+      "lat": 35.629813,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "2800117",
+      "station_g_cd": "2800117",
+      "station_name": "外苑前",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区北青山２-７-１６",
+      "lon": 139.717857,
+      "lat": 35.670527,
+      "line_cds": [
+        "28001"
+      ]
+    },
+    {
+      "station_cd": "2800113",
+      "station_g_cd": "2800113",
+      "station_name": "虎ノ門",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区虎ノ門１-１-２１",
+      "lon": 139.749832,
+      "lat": 35.670236,
+      "line_cds": [
+        "28001",
+        "28003"
+      ]
+    },
+    {
+      "station_cd": "9930306",
+      "station_g_cd": "9930306",
+      "station_name": "御成門",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区西新橋３-２４-６",
+      "lon": 139.751535,
+      "lat": 35.661215,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2800319",
+      "station_g_cd": "2800319",
+      "station_name": "広尾",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区南麻布５-１０-２８",
+      "lon": 139.722202,
+      "lat": 35.652279,
+      "line_cds": [
+        "28003"
+      ]
+    },
+    {
+      "station_cd": "1130230",
+      "station_g_cd": "1130230",
+      "station_name": "高輪ゲートウェイ",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区港南二丁目10-145",
+      "lon": 139.7407,
+      "lat": 35.6355,
+      "line_cds": [
+        "11302",
+        "11332"
+      ]
+    },
+    {
+      "station_cd": "9930206",
+      "station_g_cd": "9930206",
+      "station_name": "高輪台",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区白金台２-２６-７",
+      "lon": 139.730305,
+      "lat": 35.631679,
+      "line_cds": [
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "9930208",
+      "station_g_cd": "9930208",
+      "station_name": "三田",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区芝５-３４-１０",
+      "lon": 139.748775,
+      "lat": 35.64818,
+      "line_cds": [
+        "99302",
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "9930120",
+      "station_g_cd": "9930120",
+      "station_name": "汐留",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区東新橋１丁目５",
+      "lon": 139.760642,
+      "lat": 35.663703,
+      "line_cds": [
+        "99301",
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "9931105",
+      "station_g_cd": "9931105",
+      "station_name": "芝浦ふ頭",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区海岸３-２２-１２",
+      "lon": 139.757852,
+      "lat": 35.641773,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "9930305",
+      "station_g_cd": "9930305",
+      "station_name": "芝公園",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区芝公園４-８-１４",
+      "lon": 139.749824,
+      "lat": 35.654074,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "1130102",
+      "station_g_cd": "1130102",
+      "station_name": "新橋",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "東京都港区新橋二丁目17",
+      "lon": 139.758587,
+      "lat": 35.666195,
+      "line_cds": [
+        "11301",
+        "11302",
+        "11308",
+        "11332",
+        "28001",
+        "99302",
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "2800317",
+      "station_g_cd": "2800317",
+      "station_name": "神谷町",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区虎ノ門５-１２-１１",
+      "lon": 139.745069,
+      "lat": 35.662978,
+      "line_cds": [
+        "28003"
+      ]
+    },
+    {
+      "station_cd": "2800116",
+      "station_g_cd": "2800116",
+      "station_name": "青山一丁目",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区南青山１-１-１９",
+      "lon": 139.724159,
+      "lat": 35.672765,
+      "line_cds": [
+        "28001",
+        "28008",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "9930122",
+      "station_g_cd": "9930122",
+      "station_name": "赤羽橋",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区東麻布１-２８-１３",
+      "lon": 139.743642,
+      "lat": 35.655007,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2800515",
+      "station_g_cd": "2800515",
+      "station_name": "赤坂",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区赤坂５丁目",
+      "lon": 139.738348,
+      "lat": 35.67323,
+      "line_cds": [
+        "28005"
+      ]
+    },
+    {
+      "station_cd": "2800115",
+      "station_g_cd": "2800115",
+      "station_name": "赤坂見附",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区赤坂３-１-６",
+      "lon": 139.737047,
+      "lat": 35.677021,
+      "line_cds": [
+        "28001",
+        "28002",
+        "28006",
+        "28008",
+        "28009"
+      ]
+    },
+    {
+      "station_cd": "2700101",
+      "station_g_cd": "2700101",
+      "station_name": "泉岳寺",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区高輪２-１６-３４",
+      "lon": 139.74002,
+      "lat": 35.638692,
+      "line_cds": [
+        "27001",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "9931107",
+      "station_g_cd": "9931107",
+      "station_name": "台場",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区台場２-６",
+      "lon": 139.771435,
+      "lat": 35.625908,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "9930121",
+      "station_g_cd": "9930121",
+      "station_name": "大門",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区浜松町１-２７-１２",
+      "lon": 139.75466,
+      "lat": 35.656785,
+      "line_cds": [
+        "99301",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "9931103",
+      "station_g_cd": "9931103",
+      "station_name": "竹芝",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区海岸１-１３-１０",
+      "lon": 139.762037,
+      "lat": 35.654099,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "1130228",
+      "station_g_cd": "1130228",
+      "station_name": "田町",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "東京都港区芝五丁目33-36",
+      "lon": 139.747575,
+      "lat": 35.645736,
+      "line_cds": [
+        "11302",
+        "11332"
+      ]
+    },
+    {
+      "station_cd": "9931104",
+      "station_g_cd": "9931104",
+      "station_name": "日の出",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区海岸２-７-６８",
+      "lon": 139.75906,
+      "lat": 35.649136,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "2800516",
+      "station_g_cd": "2800516",
+      "station_name": "乃木坂",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区南青山１丁目",
+      "lon": 139.726215,
+      "lat": 35.666572,
+      "line_cds": [
+        "28005"
+      ]
+    },
+    {
+      "station_cd": "2800917",
+      "station_g_cd": "2800917",
+      "station_name": "白金高輪",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区高輪１-３-２０",
+      "lon": 139.734104,
+      "lat": 35.642903,
+      "line_cds": [
+        "28009",
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2800918",
+      "station_g_cd": "2800918",
+      "station_name": "白金台",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区白金台３-２",
+      "lon": 139.726133,
+      "lat": 35.637917,
+      "line_cds": [
+        "28009",
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2800118",
+      "station_g_cd": "2800118",
+      "station_name": "表参道",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区北青山３丁目",
+      "lon": 139.712314,
+      "lat": 35.665247,
+      "line_cds": [
+        "28001",
+        "28005",
+        "28008"
+      ]
+    },
+    {
+      "station_cd": "1130103",
+      "station_g_cd": "1130103",
+      "station_name": "品川",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "東京都港区高輪三丁目26-27",
+      "lon": 139.738999,
+      "lat": 35.62876,
+      "line_cds": [
+        "11301",
+        "11302",
+        "11308",
+        "11328",
+        "11332",
+        "27001"
+      ]
+    },
+    {
+      "station_cd": "1130227",
+      "station_g_cd": "1130227",
+      "station_name": "浜松町",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "東京都港区海岸一丁目3-1",
+      "lon": 139.757135,
+      "lat": 35.655391,
+      "line_cds": [
+        "11302",
+        "11332",
+        "99336"
+      ]
+    },
+    {
+      "station_cd": "2800916",
+      "station_g_cd": "2800916",
+      "station_name": "麻布十番",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区麻布十番４-４-９",
+      "lon": 139.737051,
+      "lat": 35.654682,
+      "line_cds": [
+        "28009",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2800318",
+      "station_g_cd": "2800318",
+      "station_name": "六本木",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区六本木６-１-２５",
+      "lon": 139.731443,
+      "lat": 35.662836,
+      "line_cds": [
+        "28003",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2800915",
+      "station_g_cd": "2800915",
+      "station_name": "六本木一丁目",
+      "station_name_k": "",
+      "ward": "港区",
+      "address": "港区六本木１-４-１",
+      "lon": 139.739,
+      "lat": 35.665595,
+      "line_cds": [
+        "28009"
+      ]
+    },
+    {
+      "station_cd": "2200703",
+      "station_g_cd": "2200703",
+      "station_name": "下落合",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区下落合１-１６-１",
+      "lon": 139.695391,
+      "lat": 35.715846,
+      "line_cds": [
+        "22007"
+      ]
+    },
+    {
+      "station_cd": "9930106",
+      "station_g_cd": "9930106",
+      "station_name": "牛込神楽坂",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区箪笥町１５",
+      "lon": 139.735802,
+      "lat": 35.700851,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "9930105",
+      "station_g_cd": "9930105",
+      "station_name": "牛込柳町",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区原町２-３２",
+      "lon": 139.725027,
+      "lat": 35.699518,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "1130210",
+      "station_g_cd": "1130210",
+      "station_name": "高田馬場",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "東京都新宿区高田馬場一丁目35-1",
+      "lon": 139.703715,
+      "lat": 35.712677,
+      "line_cds": [
+        "11302",
+        "22007",
+        "28004"
+      ]
+    },
+    {
+      "station_cd": "9930126",
+      "station_g_cd": "9930126",
+      "station_name": "国立競技場",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区霞ケ丘町１０-３",
+      "lon": 139.714932,
+      "lat": 35.679831,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "1131102",
+      "station_g_cd": "1131102",
+      "station_name": "四ツ谷",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "東京都新宿区四谷一丁目",
+      "lon": 139.730644,
+      "lat": 35.686041,
+      "line_cds": [
+        "11311",
+        "11312",
+        "11313",
+        "28002",
+        "28009"
+      ]
+    },
+    {
+      "station_cd": "2800215",
+      "station_g_cd": "2800215",
+      "station_name": "四谷三丁目",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区四谷３-８",
+      "lon": 139.720103,
+      "lat": 35.687958,
+      "line_cds": [
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "9930104",
+      "station_g_cd": "9930104",
+      "station_name": "若松河田",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区河田町１０-１０",
+      "lon": 139.718184,
+      "lat": 35.699218,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "9930403",
+      "station_g_cd": "9930403",
+      "station_name": "曙橋",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区住吉町７-１",
+      "lon": 139.722881,
+      "lat": 35.692402,
+      "line_cds": [
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "1131313",
+      "station_g_cd": "1131313",
+      "station_name": "信濃町",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区信濃町",
+      "lon": 139.720729,
+      "lat": 35.680031,
+      "line_cds": [
+        "11313"
+      ]
+    },
+    {
+      "station_cd": "1130208",
+      "station_g_cd": "1130208",
+      "station_name": "新宿",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "東京都新宿区新宿三丁目38-1",
+      "lon": 139.700464,
+      "lat": 35.689729,
+      "line_cds": [
+        "11302",
+        "11311",
+        "11312",
+        "11313",
+        "11321",
+        "11328",
+        "11333",
+        "24001",
+        "24007",
+        "25001",
+        "28002",
+        "29003",
+        "99301",
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "2800216",
+      "station_g_cd": "2800216",
+      "station_name": "新宿御苑前",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区新宿１-８-１",
+      "lon": 139.71069,
+      "lat": 35.688588,
+      "line_cds": [
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "2800217",
+      "station_g_cd": "2800217",
+      "station_name": "新宿三丁目",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区新宿３-１４-１",
+      "lon": 139.704895,
+      "lat": 35.690847,
+      "line_cds": [
+        "28002",
+        "28010",
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "9930102",
+      "station_g_cd": "9930102",
+      "station_name": "新宿西口",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区西新宿１-３-１７",
+      "lon": 139.699155,
+      "lat": 35.693315,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "1130209",
+      "station_g_cd": "1130209",
+      "station_name": "新大久保",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "東京都新宿区百人町一丁目10-15",
+      "lon": 139.700261,
+      "lat": 35.700875,
+      "line_cds": [
+        "11302"
+      ]
+    },
+    {
+      "station_cd": "2800405",
+      "station_g_cd": "2800405",
+      "station_name": "神楽坂",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区矢来町１１２",
+      "lon": 139.734546,
+      "lat": 35.70379,
+      "line_cds": [
+        "28004"
+      ]
+    },
+    {
+      "station_cd": "2800219",
+      "station_g_cd": "2800219",
+      "station_name": "西新宿",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区西新宿６-７-５１",
+      "lon": 139.692778,
+      "lat": 35.694298,
+      "line_cds": [
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "9930129",
+      "station_g_cd": "9930129",
+      "station_name": "西新宿五丁目",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区西新宿５-２５-９",
+      "lon": 139.684304,
+      "lat": 35.689798,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2801011",
+      "station_g_cd": "2801011",
+      "station_name": "西早稲田",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区西早稲田二丁目",
+      "lon": 139.709101,
+      "lat": 35.708242,
+      "line_cds": [
+        "28010"
+      ]
+    },
+    {
+      "station_cd": "2200701",
+      "station_g_cd": "2200701",
+      "station_name": "西武新宿",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区歌舞伎町１-３０-１",
+      "lon": 139.7,
+      "lat": 35.696254,
+      "line_cds": [
+        "22007"
+      ]
+    },
+    {
+      "station_cd": "2800404",
+      "station_g_cd": "2800404",
+      "station_name": "早稲田",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "東京都新宿区早稲田南町12",
+      "lon": 139.721319,
+      "lat": 35.705723,
+      "line_cds": [
+        "28004"
+      ]
+    },
+    {
+      "station_cd": "9930530",
+      "station_g_cd": "9930530",
+      "station_name": "早稲田",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "東京都新宿区西早稲田一丁目",
+      "lon": 139.718928,
+      "lat": 35.711848,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "1131309",
+      "station_g_cd": "1131309",
+      "station_name": "大久保",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区百人町１丁目",
+      "lon": 139.69732,
+      "lat": 35.700784,
+      "line_cds": [
+        "11313"
+      ]
+    },
+    {
+      "station_cd": "2200704",
+      "station_g_cd": "2200704",
+      "station_name": "中井",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区中落合１-１９-１",
+      "lon": 139.686967,
+      "lat": 35.715106,
+      "line_cds": [
+        "22007",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "9930101",
+      "station_g_cd": "9930101",
+      "station_name": "都庁前",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区西新宿２-８-１",
+      "lon": 139.69257,
+      "lat": 35.690551,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2801012",
+      "station_g_cd": "2801012",
+      "station_name": "東新宿",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区新宿７-２７-３",
+      "lon": 139.707593,
+      "lat": 35.698915,
+      "line_cds": [
+        "28010",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "9930529",
+      "station_g_cd": "9930529",
+      "station_name": "面影橋",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区西早稲田３",
+      "lon": 139.714444,
+      "lat": 35.712981,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "2800402",
+      "station_g_cd": "2800402",
+      "station_name": "落合",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区上落合２-１３-７",
+      "lon": 139.687284,
+      "lat": 35.710976,
+      "line_cds": [
+        "28004"
+      ]
+    },
+    {
+      "station_cd": "9930133",
+      "station_g_cd": "9930133",
+      "station_name": "落合南長崎",
+      "station_name_k": "",
+      "ward": "新宿区",
+      "address": "新宿区西落合３-１-１８",
+      "lon": 139.683303,
+      "lat": 35.723608,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2800204",
+      "station_g_cd": "2800204",
+      "station_name": "後楽園",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "文京区春日１-２-３",
+      "lon": 139.751864,
+      "lat": 35.707898,
+      "line_cds": [
+        "28002",
+        "28009"
+      ]
+    },
+    {
+      "station_cd": "2800611",
+      "station_g_cd": "2800611",
+      "station_name": "護国寺",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "東京都文京区大塚五丁目40-8",
+      "lon": 139.72754,
+      "lat": 35.719044,
+      "line_cds": [
+        "28006"
+      ]
+    },
+    {
+      "station_cd": "2800612",
+      "station_g_cd": "2800612",
+      "station_name": "江戸川橋",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "東京都文京区関口一丁目19-6",
+      "lon": 139.733538,
+      "lat": 35.709495,
+      "line_cds": [
+        "28006"
+      ]
+    },
+    {
+      "station_cd": "2800507",
+      "station_g_cd": "2800507",
+      "station_name": "根津",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "文京区根津１丁目",
+      "lon": 139.765655,
+      "lat": 35.7174,
+      "line_cds": [
+        "28005"
+      ]
+    },
+    {
+      "station_cd": "9930108",
+      "station_g_cd": "2800229",
+      "station_name": "春日",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "文京区春日１-１６-１７",
+      "lon": 139.75325,
+      "lat": 35.709598,
+      "line_cds": [
+        "99301",
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2800202",
+      "station_g_cd": "2800202",
+      "station_name": "新大塚",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "文京区大塚４-５１-５",
+      "lon": 139.729971,
+      "lat": 35.72569,
+      "line_cds": [
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "9930314",
+      "station_g_cd": "9930314",
+      "station_name": "千石",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "文京区千石１-２９-１３",
+      "lon": 139.744792,
+      "lat": 35.727957,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2800506",
+      "station_g_cd": "2800506",
+      "station_name": "千駄木",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "文京区千駄木２丁目",
+      "lon": 139.763243,
+      "lat": 35.725549,
+      "line_cds": [
+        "28005"
+      ]
+    },
+    {
+      "station_cd": "2800908",
+      "station_g_cd": "2800908",
+      "station_name": "東大前",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "文京区向丘１-１９-２",
+      "lon": 139.758025,
+      "lat": 35.717633,
+      "line_cds": [
+        "28009"
+      ]
+    },
+    {
+      "station_cd": "2800508",
+      "station_g_cd": "2800508",
+      "station_name": "湯島",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "文京区湯島３丁目",
+      "lon": 139.769916,
+      "lat": 35.708243,
+      "line_cds": [
+        "28005"
+      ]
+    },
+    {
+      "station_cd": "9930313",
+      "station_g_cd": "9930313",
+      "station_name": "白山",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "文京区白山５-３６-１０",
+      "lon": 139.752136,
+      "lat": 35.721408,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2800205",
+      "station_g_cd": "2800205",
+      "station_name": "本郷三丁目",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "文京区本郷２-３９-１",
+      "lon": 139.759914,
+      "lat": 35.706671,
+      "line_cds": [
+        "28002",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2800907",
+      "station_g_cd": "2800907",
+      "station_name": "本駒込",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "文京区向丘２-３７-１",
+      "lon": 139.753828,
+      "lat": 35.724155,
+      "line_cds": [
+        "28009"
+      ]
+    },
+    {
+      "station_cd": "2800203",
+      "station_g_cd": "2800203",
+      "station_name": "茗荷谷",
+      "station_name_k": "",
+      "ward": "文京区",
+      "address": "文京区小日向４-６-１５",
+      "lon": 139.737184,
+      "lat": 35.716989,
+      "line_cds": [
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "2800103",
+      "station_g_cd": "2800103",
+      "station_name": "稲荷町",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "台東区東上野３-３３-１１",
+      "lon": 139.782593,
+      "lat": 35.711273,
+      "line_cds": [
+        "28001"
+      ]
+    },
+    {
+      "station_cd": "2300101",
+      "station_g_cd": "2300101",
+      "station_name": "京成上野",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "東京都台東区上野公園1-60",
+      "lon": 139.773571,
+      "lat": 35.711232,
+      "line_cds": [
+        "23001",
+        "23006"
+      ]
+    },
+    {
+      "station_cd": "1130221",
+      "station_g_cd": "1130221",
+      "station_name": "御徒町",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "東京都台東区上野五丁目27",
+      "lon": 139.774727,
+      "lat": 35.707282,
+      "line_cds": [
+        "11302",
+        "11332",
+        "28001",
+        "28003",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2800303",
+      "station_g_cd": "2800303",
+      "station_name": "三ノ輪",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "台東区三ノ輪２-１４-７",
+      "lon": 139.791485,
+      "lat": 35.729623,
+      "line_cds": [
+        "28003"
+      ]
+    },
+    {
+      "station_cd": "1130220",
+      "station_g_cd": "1130220",
+      "station_name": "上野",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "東京都台東区上野七丁目1-1",
+      "lon": 139.777043,
+      "lat": 35.71379,
+      "line_cds": [
+        "11302",
+        "11319",
+        "11320",
+        "11323",
+        "11332",
+        "11343",
+        "28001",
+        "28003"
+      ]
+    },
+    {
+      "station_cd": "9930111",
+      "station_g_cd": "9930111",
+      "station_name": "新御徒町",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "台東区元浅草１-５-２",
+      "lon": 139.781958,
+      "lat": 35.707045,
+      "line_cds": [
+        "99301",
+        "99309"
+      ]
+    },
+    {
+      "station_cd": "2100201",
+      "station_g_cd": "2100201",
+      "station_name": "浅草",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "東京都台東区花川戸一丁目4-1",
+      "lon": 139.798214,
+      "lat": 35.711883,
+      "line_cds": [
+        "21002",
+        "28001",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "9930903",
+      "station_g_cd": "9930903",
+      "station_name": "浅草",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "東京都台東区西浅草三丁目1-11",
+      "lon": 139.792389,
+      "lat": 35.713817,
+      "line_cds": [
+        "99309"
+      ]
+    },
+    {
+      "station_cd": "1131320",
+      "station_g_cd": "1131320",
+      "station_name": "浅草橋",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "台東区浅草橋１丁目",
+      "lon": 139.784427,
+      "lat": 35.697403,
+      "line_cds": [
+        "11313",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "9930112",
+      "station_g_cd": "9930112",
+      "station_name": "蔵前",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "台東区蔵前２-３-１",
+      "lon": 139.790931,
+      "lat": 35.703236,
+      "line_cds": [
+        "99301",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "2800102",
+      "station_g_cd": "2800102",
+      "station_name": "田原町",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "台東区西浅草１-１-１８",
+      "lon": 139.790897,
+      "lat": 35.709897,
+      "line_cds": [
+        "28001"
+      ]
+    },
+    {
+      "station_cd": "2800304",
+      "station_g_cd": "2800304",
+      "station_name": "入谷",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "台東区入谷１-６-４",
+      "lon": 139.783924,
+      "lat": 35.719862,
+      "line_cds": [
+        "28003"
+      ]
+    },
+    {
+      "station_cd": "1130219",
+      "station_g_cd": "1130219",
+      "station_name": "鶯谷",
+      "station_name_k": "",
+      "ward": "台東区",
+      "address": "東京都台東区根岸一丁目4-1",
+      "lon": 139.778015,
+      "lat": 35.721484,
+      "line_cds": [
+        "11302",
+        "11332"
+      ]
+    },
+    {
+      "station_cd": "2100202",
+      "station_g_cd": "2100202",
+      "station_name": "とうきょうスカイツリー",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "墨田区押上１丁目",
+      "lon": 139.809332,
+      "lat": 35.71043,
+      "line_cds": [
+        "21002"
+      ]
+    },
+    {
+      "station_cd": "2100204",
+      "station_g_cd": "2100204",
+      "station_name": "曳舟",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "墨田区東向島２丁目",
+      "lon": 139.816634,
+      "lat": 35.718418,
+      "line_cds": [
+        "21002",
+        "21005"
+      ]
+    },
+    {
+      "station_cd": "2100203",
+      "station_g_cd": "2100203",
+      "station_name": "押上〈スカイツリー前〉",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "墨田区押上一丁目",
+      "lon": 139.812935,
+      "lat": 35.710702,
+      "line_cds": [
+        "21002",
+        "23002",
+        "28008",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "9930412",
+      "station_g_cd": "9930412",
+      "station_name": "菊川",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "墨田区菊川３-１６-２",
+      "lon": 139.806016,
+      "lat": 35.688379,
+      "line_cds": [
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "2300202",
+      "station_g_cd": "2300202",
+      "station_name": "京成曳舟",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "墨田区京島１-３９-１",
+      "lon": 139.820012,
+      "lat": 35.718441,
+      "line_cds": [
+        "23002"
+      ]
+    },
+    {
+      "station_cd": "1131322",
+      "station_g_cd": "1131322",
+      "station_name": "錦糸町",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "墨田区江東橋３丁目",
+      "lon": 139.814136,
+      "lat": 35.696802,
+      "line_cds": [
+        "11313",
+        "11314",
+        "28008"
+      ]
+    },
+    {
+      "station_cd": "2100502",
+      "station_g_cd": "2100502",
+      "station_name": "小村井",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "墨田区文花２-２０-１",
+      "lon": 139.827595,
+      "lat": 35.710316,
+      "line_cds": [
+        "21005"
+      ]
+    },
+    {
+      "station_cd": "2100206",
+      "station_g_cd": "2100206",
+      "station_name": "鐘ヶ淵",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "東京都墨田区墨田5丁目",
+      "lon": 139.820344,
+      "lat": 35.733712,
+      "line_cds": [
+        "21002"
+      ]
+    },
+    {
+      "station_cd": "2100503",
+      "station_g_cd": "2100503",
+      "station_name": "東あずま",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "墨田区立花４-２３-８",
+      "lon": 139.831883,
+      "lat": 35.707067,
+      "line_cds": [
+        "21005"
+      ]
+    },
+    {
+      "station_cd": "2100205",
+      "station_g_cd": "2100205",
+      "station_name": "東向島",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "墨田区東向島４丁目",
+      "lon": 139.819306,
+      "lat": 35.724324,
+      "line_cds": [
+        "21002"
+      ]
+    },
+    {
+      "station_cd": "2300203",
+      "station_g_cd": "2300203",
+      "station_name": "八広",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "墨田区八広６-２５-２０",
+      "lon": 139.828738,
+      "lat": 35.727687,
+      "line_cds": [
+        "23002"
+      ]
+    },
+    {
+      "station_cd": "9930219",
+      "station_g_cd": "9930219",
+      "station_name": "本所吾妻橋",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "墨田区吾妻橋３-７-１６",
+      "lon": 139.804624,
+      "lat": 35.70858,
+      "line_cds": [
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "1131321",
+      "station_g_cd": "1131321",
+      "station_name": "両国",
+      "station_name_k": "",
+      "ward": "墨田区",
+      "address": "墨田区横網１丁目",
+      "lon": 139.793334,
+      "lat": 35.69579,
+      "line_cds": [
+        "11313",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "9931109",
+      "station_g_cd": "9931109",
+      "station_name": "テレコムセンター",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区青海２-２９",
+      "lon": 139.779327,
+      "lat": 35.617593,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "1132603",
+      "station_g_cd": "1132603",
+      "station_name": "越中島",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区越中島２丁目",
+      "lon": 139.792713,
+      "lat": 35.667946,
+      "line_cds": [
+        "11326"
+      ]
+    },
+    {
+      "station_cd": "1131323",
+      "station_g_cd": "1131323",
+      "station_name": "亀戸",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区亀戸５丁目",
+      "lon": 139.826262,
+      "lat": 35.697345,
+      "line_cds": [
+        "11313",
+        "21005"
+      ]
+    },
+    {
+      "station_cd": "2100504",
+      "station_g_cd": "2100504",
+      "station_name": "亀戸水神",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区亀戸８-５-１",
+      "lon": 139.833422,
+      "lat": 35.699976,
+      "line_cds": [
+        "21005"
+      ]
+    },
+    {
+      "station_cd": "9933703",
+      "station_g_cd": "9933703",
+      "station_name": "国際展示場",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区有明２-５-２５",
+      "lon": 139.791617,
+      "lat": 35.63441,
+      "line_cds": [
+        "99337"
+      ]
+    },
+    {
+      "station_cd": "9931114",
+      "station_g_cd": "9931114",
+      "station_name": "市場前",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区豊洲６丁目",
+      "lon": 139.78564,
+      "lat": 35.645684,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "2800814",
+      "station_g_cd": "2800814",
+      "station_name": "住吉",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区住吉２-２３-１２",
+      "lon": 139.815681,
+      "lat": 35.689073,
+      "line_cds": [
+        "28008",
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "9931115",
+      "station_g_cd": "9931115",
+      "station_name": "新豊洲",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区豊洲６丁目",
+      "lon": 139.789996,
+      "lat": 35.648718,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "1132605",
+      "station_g_cd": "1132605",
+      "station_name": "新木場",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "東京都江東区新木場一丁目5",
+      "lon": 139.827402,
+      "lat": 35.646172,
+      "line_cds": [
+        "11326",
+        "28006",
+        "99337"
+      ]
+    },
+    {
+      "station_cd": "9930114",
+      "station_g_cd": "9930114",
+      "station_name": "森下",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区森下２-１７-１７",
+      "lon": 139.797042,
+      "lat": 35.68796,
+      "line_cds": [
+        "99301",
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "2800811",
+      "station_g_cd": "2800811",
+      "station_name": "清澄白河",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区白河１-７-１４",
+      "lon": 139.798851,
+      "lat": 35.682105,
+      "line_cds": [
+        "28008",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "9930414",
+      "station_g_cd": "9930414",
+      "station_name": "西大島",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区大島２-４１-１９",
+      "lon": 139.826206,
+      "lat": 35.689349,
+      "line_cds": [
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "9931110",
+      "station_g_cd": "9931110",
+      "station_name": "青海",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区青海１",
+      "lon": 139.781132,
+      "lat": 35.62467,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "9930415",
+      "station_g_cd": "9930415",
+      "station_name": "大島",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区大島５-１０-８",
+      "lon": 139.83565,
+      "lat": 35.689905,
+      "line_cds": [
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "2800623",
+      "station_g_cd": "2800623",
+      "station_name": "辰巳",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "東京都江東区辰巳一丁目1-44",
+      "lon": 139.81052,
+      "lat": 35.645576,
+      "line_cds": [
+        "28006"
+      ]
+    },
+    {
+      "station_cd": "1132604",
+      "station_g_cd": "1132604",
+      "station_name": "潮見",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区潮見２丁目",
+      "lon": 139.817341,
+      "lat": 35.658702,
+      "line_cds": [
+        "11326"
+      ]
+    },
+    {
+      "station_cd": "9933702",
+      "station_g_cd": "9933702",
+      "station_name": "東雲",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区東雲２-８-１０",
+      "lon": 139.804395,
+      "lat": 35.640987,
+      "line_cds": [
+        "99337"
+      ]
+    },
+    {
+      "station_cd": "9933704",
+      "station_g_cd": "9933704",
+      "station_name": "東京テレポート",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区青海１-２",
+      "lon": 139.778896,
+      "lat": 35.62753,
+      "line_cds": [
+        "99337"
+      ]
+    },
+    {
+      "station_cd": "9931111",
+      "station_g_cd": "9931111",
+      "station_name": "東京ビッグサイト",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区有明三丁目6-15",
+      "lon": 139.791228,
+      "lat": 35.630158,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "9931108",
+      "station_g_cd": "9931108",
+      "station_name": "東京国際クルーズターミナル",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区青海1丁目1-49",
+      "lon": 139.773157,
+      "lat": 35.621462,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "9930416",
+      "station_g_cd": "9930416",
+      "station_name": "東大島",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区大島９-３-１４",
+      "lon": 139.845963,
+      "lat": 35.690355,
+      "line_cds": [
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "2800414",
+      "station_g_cd": "2800414",
+      "station_name": "東陽町",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区東陽４-２-１",
+      "lon": 139.817596,
+      "lat": 35.669629,
+      "line_cds": [
+        "28004"
+      ]
+    },
+    {
+      "station_cd": "2800415",
+      "station_g_cd": "2800415",
+      "station_name": "南砂町",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区南砂３-１１-８５",
+      "lon": 139.83065,
+      "lat": 35.668796,
+      "line_cds": [
+        "28004"
+      ]
+    },
+    {
+      "station_cd": "2800622",
+      "station_g_cd": "2800622",
+      "station_name": "豊洲",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "東京都江東区豊洲四丁目1-1",
+      "lon": 139.79621,
+      "lat": 35.654908,
+      "line_cds": [
+        "28006",
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "2800413",
+      "station_g_cd": "2800413",
+      "station_name": "木場",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区木場５-５-１",
+      "lon": 139.807042,
+      "lat": 35.669351,
+      "line_cds": [
+        "28004"
+      ]
+    },
+    {
+      "station_cd": "2800412",
+      "station_g_cd": "2800412",
+      "station_name": "門前仲町",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区門前仲町１丁目",
+      "lon": 139.796209,
+      "lat": 35.671851,
+      "line_cds": [
+        "28004",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "9931112",
+      "station_g_cd": "9931112",
+      "station_name": "有明",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区有明２-５",
+      "lon": 139.793269,
+      "lat": 35.634596,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "9931113",
+      "station_g_cd": "9931113",
+      "station_name": "有明テニスの森",
+      "station_name_k": "",
+      "ward": "江東区",
+      "address": "江東区有明１丁目",
+      "lon": 139.78888,
+      "lat": 35.639964,
+      "line_cds": [
+        "99311"
+      ]
+    },
+    {
+      "station_cd": "2600504",
+      "station_g_cd": "2600504",
+      "station_name": "荏原中延",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区中延２-８-１",
+      "lon": 139.712196,
+      "lat": 35.610056,
+      "line_cds": [
+        "26005"
+      ]
+    },
+    {
+      "station_cd": "2600405",
+      "station_g_cd": "2600405",
+      "station_name": "荏原町",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区中延５-２-１",
+      "lon": 139.707571,
+      "lat": 35.60382,
+      "line_cds": [
+        "26004"
+      ]
+    },
+    {
+      "station_cd": "2600402",
+      "station_g_cd": "2600402",
+      "station_name": "下神明",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区西品川１-２９-６",
+      "lon": 139.726256,
+      "lat": 35.608704,
+      "line_cds": [
+        "26004"
+      ]
+    },
+    {
+      "station_cd": "2600406",
+      "station_g_cd": "2600406",
+      "station_name": "旗の台",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区旗の台２-１３-１",
+      "lon": 139.702286,
+      "lat": 35.604923,
+      "line_cds": [
+        "26004",
+        "26005"
+      ]
+    },
+    {
+      "station_cd": "2600503",
+      "station_g_cd": "2600503",
+      "station_name": "戸越銀座",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区平塚２-１６-１",
+      "lon": 139.714862,
+      "lat": 35.615928,
+      "line_cds": [
+        "26005",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "2600403",
+      "station_g_cd": "2600403",
+      "station_name": "戸越公園",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区戸越５-１０-１５",
+      "lon": 139.718159,
+      "lat": 35.608856,
+      "line_cds": [
+        "26004"
+      ]
+    },
+    {
+      "station_cd": "1130202",
+      "station_g_cd": "1130202",
+      "station_name": "五反田",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "東京都品川区東五反田一丁目26",
+      "lon": 139.723822,
+      "lat": 35.625974,
+      "line_cds": [
+        "11302",
+        "26005",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "2700106",
+      "station_g_cd": "2700106",
+      "station_name": "鮫洲",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区東大井１-２-２０",
+      "lon": 139.742227,
+      "lat": 35.604977,
+      "line_cds": [
+        "27001"
+      ]
+    },
+    {
+      "station_cd": "2700104",
+      "station_g_cd": "2700104",
+      "station_name": "新馬場",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区北品川２-１８-１",
+      "lon": 139.741366,
+      "lat": 35.61762,
+      "line_cds": [
+        "27001"
+      ]
+    },
+    {
+      "station_cd": "2600204",
+      "station_g_cd": "2600204",
+      "station_name": "西小山",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区小山６-３-１０",
+      "lon": 139.698694,
+      "lat": 35.615455,
+      "line_cds": [
+        "26002"
+      ]
+    },
+    {
+      "station_cd": "1130804",
+      "station_g_cd": "1130804",
+      "station_name": "西大井",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区西大井１丁目",
+      "lon": 139.721729,
+      "lat": 35.601616,
+      "line_cds": [
+        "11308",
+        "11333",
+        "29003"
+      ]
+    },
+    {
+      "station_cd": "2700105",
+      "station_g_cd": "2700105",
+      "station_name": "青物横丁",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区南品川３-１-２０",
+      "lon": 139.742958,
+      "lat": 35.609351,
+      "line_cds": [
+        "27001"
+      ]
+    },
+    {
+      "station_cd": "9933603",
+      "station_g_cd": "9933603",
+      "station_name": "大井競馬場前",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区勝島２-２-３５",
+      "lon": 139.74708,
+      "lat": 35.595006,
+      "line_cds": [
+        "99336"
+      ]
+    },
+    {
+      "station_cd": "1133228",
+      "station_g_cd": "1133228",
+      "station_name": "大井町",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区大井１丁目",
+      "lon": 139.73485,
+      "lat": 35.606257,
+      "line_cds": [
+        "11332",
+        "26004",
+        "99337"
+      ]
+    },
+    {
+      "station_cd": "1130201",
+      "station_g_cd": "1130201",
+      "station_name": "大崎",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "東京都品川区大崎一丁目21-4",
+      "lon": 139.728439,
+      "lat": 35.619772,
+      "line_cds": [
+        "11302",
+        "11321",
+        "11333",
+        "29003",
+        "99337"
+      ]
+    },
+    {
+      "station_cd": "2600502",
+      "station_g_cd": "2600502",
+      "station_name": "大崎広小路",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区大崎４-１-１",
+      "lon": 139.722339,
+      "lat": 35.622244,
+      "line_cds": [
+        "26005"
+      ]
+    },
+    {
+      "station_cd": "2700108",
+      "station_g_cd": "2700108",
+      "station_name": "大森海岸",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区南大井３-３２-１",
+      "lon": 139.73544,
+      "lat": 35.587576,
+      "line_cds": [
+        "27001"
+      ]
+    },
+    {
+      "station_cd": "2600404",
+      "station_g_cd": "2600404",
+      "station_name": "中延",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区中延４-５-５",
+      "lon": 139.712526,
+      "lat": 35.60571,
+      "line_cds": [
+        "26004",
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "9933602",
+      "station_g_cd": "9933602",
+      "station_name": "天王洲アイル",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区東品川２-５-１９",
+      "lon": 139.750675,
+      "lat": 35.622908,
+      "line_cds": [
+        "99336",
+        "99337"
+      ]
+    },
+    {
+      "station_cd": "9933706",
+      "station_g_cd": "9933706",
+      "station_name": "品川シーサイド",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区東品川４-１２-２２",
+      "lon": 139.749549,
+      "lat": 35.608524,
+      "line_cds": [
+        "99337"
+      ]
+    },
+    {
+      "station_cd": "2600202",
+      "station_g_cd": "2600202",
+      "station_name": "不動前",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区西五反田５-１２-１",
+      "lon": 139.71469,
+      "lat": 35.626526,
+      "line_cds": [
+        "26002"
+      ]
+    },
+    {
+      "station_cd": "2600203",
+      "station_g_cd": "2600203",
+      "station_name": "武蔵小山",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区小山３-４-８",
+      "lon": 139.704524,
+      "lat": 35.620538,
+      "line_cds": [
+        "26002"
+      ]
+    },
+    {
+      "station_cd": "2700103",
+      "station_g_cd": "2700103",
+      "station_name": "北品川",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区北品川１-１-４",
+      "lon": 139.739191,
+      "lat": 35.622458,
+      "line_cds": [
+        "27001"
+      ]
+    },
+    {
+      "station_cd": "1130203",
+      "station_g_cd": "1130203",
+      "station_name": "目黒",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "東京都品川区上大崎二丁目16-9",
+      "lon": 139.715775,
+      "lat": 35.633923,
+      "line_cds": [
+        "11302",
+        "26002",
+        "28009",
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2700107",
+      "station_g_cd": "2700107",
+      "station_name": "立会川",
+      "station_name_k": "",
+      "ward": "品川区",
+      "address": "品川区東大井２-２３-１",
+      "lon": 139.738886,
+      "lat": 35.598489,
+      "line_cds": [
+        "27001"
+      ]
+    },
+    {
+      "station_cd": "2600105",
+      "station_g_cd": "2600105",
+      "station_name": "学芸大学",
+      "station_name_k": "",
+      "ward": "目黒区",
+      "address": "目黒区鷹番３-２-１",
+      "lon": 139.68522,
+      "lat": 35.628786,
+      "line_cds": [
+        "26001"
+      ]
+    },
+    {
+      "station_cd": "2400603",
+      "station_g_cd": "2400603",
+      "station_name": "駒場東大前",
+      "station_name_k": "",
+      "ward": "目黒区",
+      "address": "目黒区駒場３-９-１",
+      "lon": 139.684308,
+      "lat": 35.65868,
+      "line_cds": [
+        "24006"
+      ]
+    },
+    {
+      "station_cd": "2600107",
+      "station_g_cd": "2600107",
+      "station_name": "自由が丘",
+      "station_name_k": "",
+      "ward": "目黒区",
+      "address": "目黒区自由が丘１-３０-１",
+      "lon": 139.668664,
+      "lat": 35.607224,
+      "line_cds": [
+        "26001",
+        "26004"
+      ]
+    },
+    {
+      "station_cd": "2600205",
+      "station_g_cd": "2600205",
+      "station_name": "洗足",
+      "station_name_k": "",
+      "ward": "目黒区",
+      "address": "目黒区洗足２-２１-１",
+      "lon": 139.694367,
+      "lat": 35.61043,
+      "line_cds": [
+        "26002"
+      ]
+    },
+    {
+      "station_cd": "2600103",
+      "station_g_cd": "2600103",
+      "station_name": "中目黒",
+      "station_name_k": "",
+      "ward": "目黒区",
+      "address": "目黒区上目黒３-４-１",
+      "lon": 139.698621,
+      "lat": 35.643854,
+      "line_cds": [
+        "26001",
+        "28003"
+      ]
+    },
+    {
+      "station_cd": "2600106",
+      "station_g_cd": "2600106",
+      "station_name": "都立大学",
+      "station_name_k": "",
+      "ward": "目黒区",
+      "address": "目黒区中根１-５-１",
+      "lon": 139.676393,
+      "lat": 35.617835,
+      "line_cds": [
+        "26001"
+      ]
+    },
+    {
+      "station_cd": "2600104",
+      "station_g_cd": "2600104",
+      "station_name": "祐天寺",
+      "station_name_k": "",
+      "ward": "目黒区",
+      "address": "目黒区祐天寺２-１３-３",
+      "lon": 139.690758,
+      "lat": 35.637163,
+      "line_cds": [
+        "26001"
+      ]
+    },
+    {
+      "station_cd": "2600409",
+      "station_g_cd": "2600409",
+      "station_name": "緑が丘",
+      "station_name_k": "",
+      "ward": "目黒区",
+      "address": "目黒区緑が丘３-１-１２",
+      "lon": 139.679482,
+      "lat": 35.60638,
+      "line_cds": [
+        "26004"
+      ]
+    },
+    {
+      "station_cd": "2700206",
+      "station_g_cd": "2700206",
+      "station_name": "羽田空港第1・第2ターミナル",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区羽田空港３-３-４",
+      "lon": 139.785962,
+      "lat": 35.549809,
+      "line_cds": [
+        "27002",
+        "99336"
+      ]
+    },
+    {
+      "station_cd": "2700207",
+      "station_g_cd": "2700207",
+      "station_name": "羽田空港第3ターミナル",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "東京都大田区羽田空港二丁目6番5号",
+      "lon": 139.768968,
+      "lat": 35.544676,
+      "line_cds": [
+        "27002",
+        "99336"
+      ]
+    },
+    {
+      "station_cd": "2600603",
+      "station_g_cd": "2600603",
+      "station_name": "鵜の木",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区鵜の木２-４-１",
+      "lon": 139.680554,
+      "lat": 35.575452,
+      "line_cds": [
+        "26006"
+      ]
+    },
+    {
+      "station_cd": "2600604",
+      "station_g_cd": "2600604",
+      "station_name": "下丸子",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区下丸子３-７-１",
+      "lon": 139.685576,
+      "lat": 35.571397,
+      "line_cds": [
+        "26006"
+      ]
+    },
+    {
+      "station_cd": "1133230",
+      "station_g_cd": "1133230",
+      "station_name": "蒲田",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区蒲田５丁目",
+      "lon": 139.716032,
+      "lat": 35.562517,
+      "line_cds": [
+        "11332",
+        "26005",
+        "26006"
+      ]
+    },
+    {
+      "station_cd": "2600511",
+      "station_g_cd": "2600511",
+      "station_name": "久が原",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区南久が原２-６-１０",
+      "lon": 139.685678,
+      "lat": 35.579499,
+      "line_cds": [
+        "26005"
+      ]
+    },
+    {
+      "station_cd": "2700112",
+      "station_g_cd": "2700112",
+      "station_name": "京急蒲田",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区蒲田４-５０-１０",
+      "lon": 139.723681,
+      "lat": 35.560796,
+      "line_cds": [
+        "27001",
+        "27002"
+      ]
+    },
+    {
+      "station_cd": "2700204",
+      "station_g_cd": "2700204",
+      "station_name": "穴守稲荷",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区羽田４-６-１１",
+      "lon": 139.746669,
+      "lat": 35.550326,
+      "line_cds": [
+        "27002"
+      ]
+    },
+    {
+      "station_cd": "2600510",
+      "station_g_cd": "2600510",
+      "station_name": "御嶽山",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区北嶺町３２-１７",
+      "lon": 139.682473,
+      "lat": 35.585236,
+      "line_cds": [
+        "26005"
+      ]
+    },
+    {
+      "station_cd": "2700113",
+      "station_g_cd": "2700113",
+      "station_name": "雑色",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区仲六郷２-４２-１",
+      "lon": 139.715005,
+      "lat": 35.549725,
+      "line_cds": [
+        "27001"
+      ]
+    },
+    {
+      "station_cd": "9933605",
+      "station_g_cd": "9933605",
+      "station_name": "昭和島",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区昭和島２-２-１",
+      "lon": 139.749918,
+      "lat": 35.570656,
+      "line_cds": [
+        "99336"
+      ]
+    },
+    {
+      "station_cd": "2600602",
+      "station_g_cd": "2600602",
+      "station_name": "沼部",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区田園調布本町２８-１",
+      "lon": 139.67326,
+      "lat": 35.582526,
+      "line_cds": [
+        "26006"
+      ]
+    },
+    {
+      "station_cd": "9933608",
+      "station_g_cd": "9933608",
+      "station_name": "新整備場",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区羽田空港３-５-１",
+      "lon": 139.786777,
+      "lat": 35.542773,
+      "line_cds": [
+        "99336"
+      ]
+    },
+    {
+      "station_cd": "9933606",
+      "station_g_cd": "9933606",
+      "station_name": "整備場",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区羽田空港１-７-４",
+      "lon": 139.753366,
+      "lat": 35.555125,
+      "line_cds": [
+        "99336"
+      ]
+    },
+    {
+      "station_cd": "9930201",
+      "station_g_cd": "9930201",
+      "station_name": "西馬込",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区西馬込２-１-６",
+      "lon": 139.705942,
+      "lat": 35.586859,
+      "line_cds": [
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "2600508",
+      "station_g_cd": "2600508",
+      "station_name": "石川台",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区東雪谷２-２３-１",
+      "lon": 139.685063,
+      "lat": 35.596888,
+      "line_cds": [
+        "26005"
+      ]
+    },
+    {
+      "station_cd": "2600509",
+      "station_g_cd": "2600509",
+      "station_name": "雪が谷大塚",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区南雪谷２-２-１６",
+      "lon": 139.681083,
+      "lat": 35.592038,
+      "line_cds": [
+        "26005"
+      ]
+    },
+    {
+      "station_cd": "2600512",
+      "station_g_cd": "2600512",
+      "station_name": "千鳥町",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区千鳥１-２０-１",
+      "lon": 139.69142,
+      "lat": 35.572983,
+      "line_cds": [
+        "26005"
+      ]
+    },
+    {
+      "station_cd": "2600507",
+      "station_g_cd": "2600507",
+      "station_name": "洗足池",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区東雪谷１-１-６",
+      "lon": 139.690896,
+      "lat": 35.599648,
+      "line_cds": [
+        "26005"
+      ]
+    },
+    {
+      "station_cd": "2600109",
+      "station_g_cd": "2600109",
+      "station_name": "多摩川",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区田園調布１-５３-８",
+      "lon": 139.668723,
+      "lat": 35.589591,
+      "line_cds": [
+        "26001",
+        "26002",
+        "26006"
+      ]
+    },
+    {
+      "station_cd": "2600206",
+      "station_g_cd": "2600206",
+      "station_name": "大岡山",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区北千束３-２７-１",
+      "lon": 139.685909,
+      "lat": 35.607456,
+      "line_cds": [
+        "26002",
+        "26004"
+      ]
+    },
+    {
+      "station_cd": "1133229",
+      "station_g_cd": "1133229",
+      "station_name": "大森",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区大森北１丁目",
+      "lon": 139.728079,
+      "lat": 35.588903,
+      "line_cds": [
+        "11332"
+      ]
+    },
+    {
+      "station_cd": "2700110",
+      "station_g_cd": "2700110",
+      "station_name": "大森町",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区大森西３-２４-７",
+      "lon": 139.732027,
+      "lat": 35.572431,
+      "line_cds": [
+        "27001"
+      ]
+    },
+    {
+      "station_cd": "2700203",
+      "station_g_cd": "2700203",
+      "station_name": "大鳥居",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区西糀谷３-３７-１８",
+      "lon": 139.739356,
+      "lat": 35.552531,
+      "line_cds": [
+        "27002"
+      ]
+    },
+    {
+      "station_cd": "2600513",
+      "station_g_cd": "2600513",
+      "station_name": "池上",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区池上６-３-１０",
+      "lon": 139.702822,
+      "lat": 35.572025,
+      "line_cds": [
+        "26005"
+      ]
+    },
+    {
+      "station_cd": "2600506",
+      "station_g_cd": "2600506",
+      "station_name": "長原",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区上池台１-１０-１０",
+      "lon": 139.697881,
+      "lat": 35.60219,
+      "line_cds": [
+        "26005"
+      ]
+    },
+    {
+      "station_cd": "2700205",
+      "station_g_cd": "2700205",
+      "station_name": "天空橋",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区羽田空港１-１-２",
+      "lon": 139.75423,
+      "lat": 35.548908,
+      "line_cds": [
+        "27002",
+        "99336"
+      ]
+    },
+    {
+      "station_cd": "2600108",
+      "station_g_cd": "2600108",
+      "station_name": "田園調布",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区田園調布３-２５-１８",
+      "lon": 139.667356,
+      "lat": 35.596815,
+      "line_cds": [
+        "26001",
+        "26002"
+      ]
+    },
+    {
+      "station_cd": "9930202",
+      "station_g_cd": "9930202",
+      "station_name": "馬込",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区北馬込２-３１-９",
+      "lon": 139.711772,
+      "lat": 35.596435,
+      "line_cds": [
+        "99302"
+      ]
+    },
+    {
+      "station_cd": "2700111",
+      "station_g_cd": "2700111",
+      "station_name": "梅屋敷",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区蒲田２-２８-１",
+      "lon": 139.728266,
+      "lat": 35.566873,
+      "line_cds": [
+        "27001"
+      ]
+    },
+    {
+      "station_cd": "2600605",
+      "station_g_cd": "2600605",
+      "station_name": "武蔵新田",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区矢口１-１８-１",
+      "lon": 139.692506,
+      "lat": 35.567806,
+      "line_cds": [
+        "26006"
+      ]
+    },
+    {
+      "station_cd": "2700109",
+      "station_g_cd": "2700109",
+      "station_name": "平和島",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区大森北６-１３-１１",
+      "lon": 139.73491,
+      "lat": 35.57868,
+      "line_cds": [
+        "27001"
+      ]
+    },
+    {
+      "station_cd": "2600407",
+      "station_g_cd": "2600407",
+      "station_name": "北千束",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区北千束２-１６-１",
+      "lon": 139.693303,
+      "lat": 35.606311,
+      "line_cds": [
+        "26004"
+      ]
+    },
+    {
+      "station_cd": "2600606",
+      "station_g_cd": "2600606",
+      "station_name": "矢口渡",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区多摩川１-２０-１５",
+      "lon": 139.700389,
+      "lat": 35.562462,
+      "line_cds": [
+        "26006"
+      ]
+    },
+    {
+      "station_cd": "9933604",
+      "station_g_cd": "9933604",
+      "station_name": "流通センター",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区平和島６-１-２",
+      "lon": 139.748964,
+      "lat": 35.58186,
+      "line_cds": [
+        "99336"
+      ]
+    },
+    {
+      "station_cd": "2600514",
+      "station_g_cd": "2600514",
+      "station_name": "蓮沼",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区西蒲田７-１７-１",
+      "lon": 139.708544,
+      "lat": 35.564173,
+      "line_cds": [
+        "26005"
+      ]
+    },
+    {
+      "station_cd": "2700114",
+      "station_g_cd": "2700114",
+      "station_name": "六郷土手",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区仲六郷４-２７-１１",
+      "lon": 139.7076,
+      "lat": 35.540577,
+      "line_cds": [
+        "27001"
+      ]
+    },
+    {
+      "station_cd": "2700202",
+      "station_g_cd": "2700202",
+      "station_name": "糀谷",
+      "station_name_k": "",
+      "ward": "大田区",
+      "address": "大田区西糀谷４-１３-１７",
+      "lon": 139.72962,
+      "lat": 35.5545,
+      "line_cds": [
+        "27002"
+      ]
+    },
+    {
+      "station_cd": "2400111",
+      "station_g_cd": "2400111",
+      "station_name": "芦花公園",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区南烏山３-１-１６",
+      "lon": 139.608247,
+      "lat": 35.670479,
+      "line_cds": [
+        "24001"
+      ]
+    },
+    {
+      "station_cd": "2600207",
+      "station_g_cd": "2600207",
+      "station_name": "奥沢",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区奥沢３-４７-１７",
+      "lon": 139.672355,
+      "lat": 35.603947,
+      "line_cds": [
+        "26002"
+      ]
+    },
+    {
+      "station_cd": "2400107",
+      "station_g_cd": "2400107",
+      "station_name": "下高井戸",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区松原３-２９-１７",
+      "lon": 139.641372,
+      "lat": 35.66615,
+      "line_cds": [
+        "24001",
+        "26007"
+      ]
+    },
+    {
+      "station_cd": "2400605",
+      "station_g_cd": "2400605",
+      "station_name": "下北沢",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区北沢２丁目",
+      "lon": 139.66691,
+      "lat": 35.661539,
+      "line_cds": [
+        "24006",
+        "25001"
+      ]
+    },
+    {
+      "station_cd": "2500115",
+      "station_g_cd": "2500115",
+      "station_name": "喜多見",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区喜多見９丁目",
+      "lon": 139.587445,
+      "lat": 35.636697,
+      "line_cds": [
+        "25001"
+      ]
+    },
+    {
+      "station_cd": "2600707",
+      "station_g_cd": "2600707",
+      "station_name": "宮の坂",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区宮坂１-２４-７",
+      "lon": 139.64494,
+      "lat": 35.647508,
+      "line_cds": [
+        "26007"
+      ]
+    },
+    {
+      "station_cd": "2600411",
+      "station_g_cd": "2600411",
+      "station_name": "九品仏",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区奥沢７-２０-１",
+      "lon": 139.660992,
+      "lat": 35.60538,
+      "line_cds": [
+        "26004"
+      ]
+    },
+    {
+      "station_cd": "2600304",
+      "station_g_cd": "2600304",
+      "station_name": "駒沢大学",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区上馬４-３",
+      "lon": 139.661702,
+      "lat": 35.633471,
+      "line_cds": [
+        "26003"
+      ]
+    },
+    {
+      "station_cd": "2500111",
+      "station_g_cd": "2500111",
+      "station_name": "経堂",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区経堂１丁目",
+      "lon": 139.635993,
+      "lat": 35.650991,
+      "line_cds": [
+        "25001"
+      ]
+    },
+    {
+      "station_cd": "2500110",
+      "station_g_cd": "2500110",
+      "station_name": "豪徳寺",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区豪徳寺１丁目",
+      "lon": 139.647381,
+      "lat": 35.653807,
+      "line_cds": [
+        "25001",
+        "26007"
+      ]
+    },
+    {
+      "station_cd": "2400108",
+      "station_g_cd": "2400108",
+      "station_name": "桜上水",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区桜上水５-２９-５２",
+      "lon": 139.63129,
+      "lat": 35.66768,
+      "line_cds": [
+        "24001"
+      ]
+    },
+    {
+      "station_cd": "2600305",
+      "station_g_cd": "2600305",
+      "station_name": "桜新町",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区桜新町２-８",
+      "lon": 139.644779,
+      "lat": 35.631666,
+      "line_cds": [
+        "26003"
+      ]
+    },
+    {
+      "station_cd": "2600303",
+      "station_g_cd": "2600303",
+      "station_name": "三軒茶屋",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区太子堂４-２１-１",
+      "lon": 139.670156,
+      "lat": 35.643716,
+      "line_cds": [
+        "26003",
+        "26007"
+      ]
+    },
+    {
+      "station_cd": "2600703",
+      "station_g_cd": "2600703",
+      "station_name": "若林",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区若林４-３-１５",
+      "lon": 139.659911,
+      "lat": 35.645933,
+      "line_cds": [
+        "26007"
+      ]
+    },
+    {
+      "station_cd": "2600704",
+      "station_g_cd": "2600704",
+      "station_name": "松陰神社前",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区若林４-２１-１６",
+      "lon": 139.655211,
+      "lat": 35.643947,
+      "line_cds": [
+        "26007"
+      ]
+    },
+    {
+      "station_cd": "2600709",
+      "station_g_cd": "2600709",
+      "station_name": "松原",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区松原４-１０-８",
+      "lon": 139.642,
+      "lat": 35.660048,
+      "line_cds": [
+        "26007"
+      ]
+    },
+    {
+      "station_cd": "2600706",
+      "station_g_cd": "2600706",
+      "station_name": "上町",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区世田谷３-４-３",
+      "lon": 139.646276,
+      "lat": 35.643656,
+      "line_cds": [
+        "26007"
+      ]
+    },
+    {
+      "station_cd": "2400109",
+      "station_g_cd": "2400109",
+      "station_name": "上北沢",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区上北沢４-１４-３",
+      "lon": 139.62329,
+      "lat": 35.668857,
+      "line_cds": [
+        "24001"
+      ]
+    },
+    {
+      "station_cd": "2600414",
+      "station_g_cd": "2600414",
+      "station_name": "上野毛",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区上野毛１-２６-６",
+      "lon": 139.638917,
+      "lat": 35.611957,
+      "line_cds": [
+        "26004"
+      ]
+    },
+    {
+      "station_cd": "2400606",
+      "station_g_cd": "2400606",
+      "station_name": "新代田",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区代田５-３０-１８",
+      "lon": 139.660524,
+      "lat": 35.662593,
+      "line_cds": [
+        "24006"
+      ]
+    },
+    {
+      "station_cd": "2600705",
+      "station_g_cd": "2600705",
+      "station_name": "世田谷",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区世田谷４-９-６",
+      "lon": 139.650945,
+      "lat": 35.643564,
+      "line_cds": [
+        "26007"
+      ]
+    },
+    {
+      "station_cd": "2500108",
+      "station_g_cd": "2500108",
+      "station_name": "世田谷代田",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区代田２丁目",
+      "lon": 139.661557,
+      "lat": 35.65834,
+      "line_cds": [
+        "25001"
+      ]
+    },
+    {
+      "station_cd": "2500114",
+      "station_g_cd": "2500114",
+      "station_name": "成城学園前",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区成城６丁目",
+      "lon": 139.598958,
+      "lat": 35.640114,
+      "line_cds": [
+        "25001"
+      ]
+    },
+    {
+      "station_cd": "2600702",
+      "station_g_cd": "2600702",
+      "station_name": "西太子堂",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区太子堂４-１０-３",
+      "lon": 139.666382,
+      "lat": 35.644545,
+      "line_cds": [
+        "26007"
+      ]
+    },
+    {
+      "station_cd": "2400112",
+      "station_g_cd": "2400112",
+      "station_name": "千歳烏山",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区南烏山６-１-１",
+      "lon": 139.60067,
+      "lat": 35.667921,
+      "line_cds": [
+        "24001"
+      ]
+    },
+    {
+      "station_cd": "2500112",
+      "station_g_cd": "2500112",
+      "station_name": "千歳船橋",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区船橋１丁目",
+      "lon": 139.624544,
+      "lat": 35.647616,
+      "line_cds": [
+        "25001"
+      ]
+    },
+    {
+      "station_cd": "2500113",
+      "station_g_cd": "2500113",
+      "station_name": "祖師ヶ谷大蔵",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "東京都世田谷区祖師谷1丁目",
+      "lon": 139.609659,
+      "lat": 35.643236,
+      "line_cds": [
+        "25001"
+      ]
+    },
+    {
+      "station_cd": "2400105",
+      "station_g_cd": "2400105",
+      "station_name": "代田橋",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区大原２-１８-９",
+      "lon": 139.659413,
+      "lat": 35.671092,
+      "line_cds": [
+        "24001"
+      ]
+    },
+    {
+      "station_cd": "2400604",
+      "station_g_cd": "2400604",
+      "station_name": "池ノ上",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区代沢２-４３-８",
+      "lon": 139.67344,
+      "lat": 35.660402,
+      "line_cds": [
+        "24006"
+      ]
+    },
+    {
+      "station_cd": "2600302",
+      "station_g_cd": "2600302",
+      "station_name": "池尻大橋",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区池尻３-２",
+      "lon": 139.684319,
+      "lat": 35.650603,
+      "line_cds": [
+        "26003"
+      ]
+    },
+    {
+      "station_cd": "2400607",
+      "station_g_cd": "2400607",
+      "station_name": "東松原",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区松原５-２-６",
+      "lon": 139.655535,
+      "lat": 35.662634,
+      "line_cds": [
+        "24006"
+      ]
+    },
+    {
+      "station_cd": "2500106",
+      "station_g_cd": "2500106",
+      "station_name": "東北沢",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区北沢３丁目",
+      "lon": 139.673014,
+      "lat": 35.665379,
+      "line_cds": [
+        "25001"
+      ]
+    },
+    {
+      "station_cd": "2600413",
+      "station_g_cd": "2600413",
+      "station_name": "等々力",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区等々力３-１-１",
+      "lon": 139.647938,
+      "lat": 35.608369,
+      "line_cds": [
+        "26004"
+      ]
+    },
+    {
+      "station_cd": "2600307",
+      "station_g_cd": "2600307",
+      "station_name": "二子玉川",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区玉川２-２２-１３",
+      "lon": 139.626685,
+      "lat": 35.611788,
+      "line_cds": [
+        "26003",
+        "26004"
+      ]
+    },
+    {
+      "station_cd": "2500109",
+      "station_g_cd": "2500109",
+      "station_name": "梅ヶ丘",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "東京都世田谷区梅丘",
+      "lon": 139.653628,
+      "lat": 35.656024,
+      "line_cds": [
+        "25001"
+      ]
+    },
+    {
+      "station_cd": "2600412",
+      "station_g_cd": "2600412",
+      "station_name": "尾山台",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区等々力５-５-７",
+      "lon": 139.653862,
+      "lat": 35.606971,
+      "line_cds": [
+        "26004"
+      ]
+    },
+    {
+      "station_cd": "2400106",
+      "station_g_cd": "2400106",
+      "station_name": "明大前",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区松原２-４５-１",
+      "lon": 139.650352,
+      "lat": 35.668758,
+      "line_cds": [
+        "24001",
+        "24006"
+      ]
+    },
+    {
+      "station_cd": "2600306",
+      "station_g_cd": "2600306",
+      "station_name": "用賀",
+      "station_name_k": "",
+      "ward": "世田谷区",
+      "address": "世田谷区用賀２-３９",
+      "lon": 139.633928,
+      "lat": 35.626436,
+      "line_cds": [
+        "26003"
+      ]
+    },
+    {
+      "station_cd": "1130204",
+      "station_g_cd": "1130204",
+      "station_name": "恵比寿",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "東京都渋谷区恵比寿南一丁目5-5",
+      "lon": 139.71007,
+      "lat": 35.646685,
+      "line_cds": [
+        "11302",
+        "11321",
+        "11333",
+        "28003",
+        "29003"
+      ]
+    },
+    {
+      "station_cd": "1130206",
+      "station_g_cd": "1130206",
+      "station_name": "原宿",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "東京都渋谷区神宮前一丁目18",
+      "lon": 139.702592,
+      "lat": 35.670646,
+      "line_cds": [
+        "11302",
+        "28005",
+        "28010"
+      ]
+    },
+    {
+      "station_cd": "2400104",
+      "station_g_cd": "2400104",
+      "station_name": "笹塚",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "渋谷区笹塚１-５６-７",
+      "lon": 139.667251,
+      "lat": 35.673758,
+      "line_cds": [
+        "24001",
+        "24007"
+      ]
+    },
+    {
+      "station_cd": "2500103",
+      "station_g_cd": "2500103",
+      "station_name": "参宮橋",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "渋谷区代々木４丁目",
+      "lon": 139.693568,
+      "lat": 35.678586,
+      "line_cds": [
+        "25001"
+      ]
+    },
+    {
+      "station_cd": "1130205",
+      "station_g_cd": "1130205",
+      "station_name": "渋谷",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "東京都渋谷区道玄坂一丁目1-1",
+      "lon": 139.701238,
+      "lat": 35.658871,
+      "line_cds": [
+        "11302",
+        "11321",
+        "11328",
+        "11333",
+        "24006",
+        "26001",
+        "26003",
+        "28001",
+        "28008",
+        "28010",
+        "29003"
+      ]
+    },
+    {
+      "station_cd": "2400702",
+      "station_g_cd": "2400102",
+      "station_name": "初台",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "渋谷区初台１-５３-７",
+      "lon": 139.686354,
+      "lat": 35.68123,
+      "line_cds": [
+        "24007"
+      ]
+    },
+    {
+      "station_cd": "2400602",
+      "station_g_cd": "2400602",
+      "station_name": "神泉",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "渋谷区神泉町４-６",
+      "lon": 139.693579,
+      "lat": 35.657244,
+      "line_cds": [
+        "24006"
+      ]
+    },
+    {
+      "station_cd": "1131312",
+      "station_g_cd": "1131312",
+      "station_name": "千駄ケ谷",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "東京都渋谷区千駄ヶ谷一丁目35-10",
+      "lon": 139.711644,
+      "lat": 35.681231,
+      "line_cds": [
+        "11313"
+      ]
+    },
+    {
+      "station_cd": "1130207",
+      "station_g_cd": "1130207",
+      "station_name": "代々木",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "東京都渋谷区代々木一丁目34-1",
+      "lon": 139.702042,
+      "lat": 35.683061,
+      "line_cds": [
+        "11302",
+        "11313",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2500105",
+      "station_g_cd": "2500105",
+      "station_name": "代々木上原",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "渋谷区西原３丁目",
+      "lon": 139.680153,
+      "lat": 35.669159,
+      "line_cds": [
+        "25001",
+        "28005"
+      ]
+    },
+    {
+      "station_cd": "2500104",
+      "station_g_cd": "2500104",
+      "station_name": "代々木八幡",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "渋谷区代々木５丁目",
+      "lon": 139.688913,
+      "lat": 35.669715,
+      "line_cds": [
+        "25001",
+        "28005"
+      ]
+    },
+    {
+      "station_cd": "2600102",
+      "station_g_cd": "2600102",
+      "station_name": "代官山",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "渋谷区代官山町１９-４",
+      "lon": 139.703284,
+      "lat": 35.648193,
+      "line_cds": [
+        "26001"
+      ]
+    },
+    {
+      "station_cd": "2500102",
+      "station_g_cd": "2500102",
+      "station_name": "南新宿",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "渋谷区代々木２丁目",
+      "lon": 139.69867,
+      "lat": 35.683483,
+      "line_cds": [
+        "25001"
+      ]
+    },
+    {
+      "station_cd": "2400703",
+      "station_g_cd": "2400103",
+      "station_name": "幡ヶ谷",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "東京都渋谷区幡ヶ谷一丁目",
+      "lon": 139.676183,
+      "lat": 35.677061,
+      "line_cds": [
+        "24007"
+      ]
+    },
+    {
+      "station_cd": "2801014",
+      "station_g_cd": "2801014",
+      "station_name": "北参道",
+      "station_name_k": "",
+      "ward": "渋谷区",
+      "address": "渋谷区千駄ヶ谷４丁目",
+      "lon": 139.705453,
+      "lat": 35.678459,
+      "line_cds": [
+        "28010"
+      ]
+    },
+    {
+      "station_cd": "2200709",
+      "station_g_cd": "2200709",
+      "station_name": "鷺ノ宮",
+      "station_name_k": "",
+      "ward": "中野区",
+      "address": "中野区鷺宮３-１５-１",
+      "lon": 139.63892,
+      "lat": 35.722605,
+      "line_cds": [
+        "22007"
+      ]
+    },
+    {
+      "station_cd": "2200706",
+      "station_g_cd": "2200706",
+      "station_name": "沼袋",
+      "station_name_k": "",
+      "ward": "中野区",
+      "address": "中野区沼袋１-３５-１",
+      "lon": 139.663841,
+      "lat": 35.719458,
+      "line_cds": [
+        "22007"
+      ]
+    },
+    {
+      "station_cd": "2200705",
+      "station_g_cd": "2200705",
+      "station_name": "新井薬師前",
+      "station_name_k": "",
+      "ward": "中野区",
+      "address": "中野区上高田５-４３-２０",
+      "lon": 139.672582,
+      "lat": 35.715778,
+      "line_cds": [
+        "22007"
+      ]
+    },
+    {
+      "station_cd": "9930134",
+      "station_g_cd": "9930134",
+      "station_name": "新江古田",
+      "station_name_k": "",
+      "ward": "中野区",
+      "address": "中野区江原町２-２９-１３",
+      "lon": 139.670653,
+      "lat": 35.732538,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2800221",
+      "station_g_cd": "2800221",
+      "station_name": "新中野",
+      "station_name_k": "",
+      "ward": "中野区",
+      "address": "中野区中央４-２-１５",
+      "lon": 139.66903,
+      "lat": 35.697491,
+      "line_cds": [
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "1131214",
+      "station_g_cd": "1131214",
+      "station_name": "中野",
+      "station_name_k": "",
+      "ward": "中野区",
+      "address": "中野区中野５丁目",
+      "lon": 139.665835,
+      "lat": 35.705765,
+      "line_cds": [
+        "11312",
+        "11313",
+        "28004"
+      ]
+    },
+    {
+      "station_cd": "2800220",
+      "station_g_cd": "2800220",
+      "station_name": "中野坂上",
+      "station_name_k": "",
+      "ward": "中野区",
+      "address": "中野区中央２-１-２",
+      "lon": 139.68291,
+      "lat": 35.69792,
+      "line_cds": [
+        "28002",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2800226",
+      "station_g_cd": "2800226",
+      "station_name": "中野新橋",
+      "station_name_k": "",
+      "ward": "中野区",
+      "address": "中野区弥生町２-２６-８",
+      "lon": 139.673997,
+      "lat": 35.692123,
+      "line_cds": [
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "2800227",
+      "station_g_cd": "2800227",
+      "station_name": "中野富士見町",
+      "station_name_k": "",
+      "ward": "中野区",
+      "address": "中野区弥生町５-２４-４",
+      "lon": 139.666933,
+      "lat": 35.690514,
+      "line_cds": [
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "2200708",
+      "station_g_cd": "2200708",
+      "station_name": "都立家政",
+      "station_name_k": "",
+      "ward": "中野区",
+      "address": "中野区鷺宮１-１６-１",
+      "lon": 139.644839,
+      "lat": 35.722313,
+      "line_cds": [
+        "22007"
+      ]
+    },
+    {
+      "station_cd": "1131308",
+      "station_g_cd": "1131308",
+      "station_name": "東中野",
+      "station_name_k": "",
+      "ward": "中野区",
+      "address": "中野区東中野４丁目",
+      "lon": 139.684436,
+      "lat": 35.706529,
+      "line_cds": [
+        "11313",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2200707",
+      "station_g_cd": "2200707",
+      "station_name": "野方",
+      "station_name_k": "",
+      "ward": "中野区",
+      "address": "中野区野方６-３-３",
+      "lon": 139.652733,
+      "lat": 35.719658,
+      "line_cds": [
+        "22007"
+      ]
+    },
+    {
+      "station_cd": "1131216",
+      "station_g_cd": "1131216",
+      "station_name": "阿佐ケ谷",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "東京都杉並区阿佐谷南三丁目36-3",
+      "lon": 139.635868,
+      "lat": 35.704818,
+      "line_cds": [
+        "11312",
+        "11313"
+      ]
+    },
+    {
+      "station_cd": "2200711",
+      "station_g_cd": "2200711",
+      "station_name": "井荻",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区下井草５-２３-１５",
+      "lon": 139.615303,
+      "lat": 35.72469,
+      "line_cds": [
+        "22007"
+      ]
+    },
+    {
+      "station_cd": "2400609",
+      "station_g_cd": "2400609",
+      "station_name": "永福町",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区永福２-６０-３１",
+      "lon": 139.642733,
+      "lat": 35.67629,
+      "line_cds": [
+        "24006"
+      ]
+    },
+    {
+      "station_cd": "1131217",
+      "station_g_cd": "1131217",
+      "station_name": "荻窪",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区上荻１丁目",
+      "lon": 139.620109,
+      "lat": 35.704523,
+      "line_cds": [
+        "11312",
+        "11313",
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "2200710",
+      "station_g_cd": "2200710",
+      "station_name": "下井草",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区下井草２-４４-１０",
+      "lon": 139.624688,
+      "lat": 35.723852,
+      "line_cds": [
+        "22007"
+      ]
+    },
+    {
+      "station_cd": "2400614",
+      "station_g_cd": "2400614",
+      "station_name": "久我山",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区久我山４-１-１１",
+      "lon": 139.599211,
+      "lat": 35.688138,
+      "line_cds": [
+        "24006"
+      ]
+    },
+    {
+      "station_cd": "2400612",
+      "station_g_cd": "2400612",
+      "station_name": "高井戸",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区高井戸西２-１-２６",
+      "lon": 139.615115,
+      "lat": 35.683253,
+      "line_cds": [
+        "24006"
+      ]
+    },
+    {
+      "station_cd": "1131215",
+      "station_g_cd": "1131215",
+      "station_name": "高円寺",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区高円寺南４丁目",
+      "lon": 139.649664,
+      "lat": 35.705326,
+      "line_cds": [
+        "11312",
+        "11313"
+      ]
+    },
+    {
+      "station_cd": "2200712",
+      "station_g_cd": "2200712",
+      "station_name": "上井草",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区上井草３-３２-１",
+      "lon": 139.602937,
+      "lat": 35.725326,
+      "line_cds": [
+        "22007"
+      ]
+    },
+    {
+      "station_cd": "2800223",
+      "station_g_cd": "2800223",
+      "station_name": "新高円寺",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区高円寺南２-２０-１",
+      "lon": 139.648068,
+      "lat": 35.697985,
+      "line_cds": [
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "2400610",
+      "station_g_cd": "2400610",
+      "station_name": "西永福",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区永福３-３６-１",
+      "lon": 139.634936,
+      "lat": 35.678918,
+      "line_cds": [
+        "24006"
+      ]
+    },
+    {
+      "station_cd": "1131218",
+      "station_g_cd": "1131218",
+      "station_name": "西荻窪",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区西荻南３丁目",
+      "lon": 139.599361,
+      "lat": 35.703842,
+      "line_cds": [
+        "11312",
+        "11313"
+      ]
+    },
+    {
+      "station_cd": "2800222",
+      "station_g_cd": "2800222",
+      "station_name": "東高円寺",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区和田３-５５-４２",
+      "lon": 139.657822,
+      "lat": 35.697802,
+      "line_cds": [
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "2800224",
+      "station_g_cd": "2800224",
+      "station_name": "南阿佐ケ谷",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区阿佐谷南１-１５-７",
+      "lon": 139.63576,
+      "lat": 35.699624,
+      "line_cds": [
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "2400110",
+      "station_g_cd": "2400110",
+      "station_name": "八幡山",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区上高井戸１-１-１１",
+      "lon": 139.614927,
+      "lat": 35.669982,
+      "line_cds": [
+        "24001"
+      ]
+    },
+    {
+      "station_cd": "2400611",
+      "station_g_cd": "2400611",
+      "station_name": "浜田山",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区浜田山３-３１-２",
+      "lon": 139.627528,
+      "lat": 35.681603,
+      "line_cds": [
+        "24006"
+      ]
+    },
+    {
+      "station_cd": "2400613",
+      "station_g_cd": "2400613",
+      "station_name": "富士見ヶ丘",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "東京都杉並区久我山五丁目1番25号",
+      "lon": 139.607072,
+      "lat": 35.684805,
+      "line_cds": [
+        "24006"
+      ]
+    },
+    {
+      "station_cd": "2800228",
+      "station_g_cd": "2800228",
+      "station_name": "方南町",
+      "station_name_k": "",
+      "ward": "杉並区",
+      "address": "杉並区堀ノ内１-１-１",
+      "lon": 139.656498,
+      "lat": 35.683496,
+      "line_cds": [
+        "28002"
+      ]
+    },
+    {
+      "station_cd": "2100103",
+      "station_g_cd": "2100103",
+      "station_name": "下板橋",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "豊島区池袋本町４-４３-１１",
+      "lon": 139.714785,
+      "lat": 35.745721,
+      "line_cds": [
+        "21001"
+      ]
+    },
+    {
+      "station_cd": "9930528",
+      "station_g_cd": "9930528",
+      "station_name": "学習院下",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "豊島区高田２",
+      "lon": 139.71247,
+      "lat": 35.716248,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "1130215",
+      "station_g_cd": "1130215",
+      "station_name": "駒込",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "東京都豊島区駒込二丁目1-1",
+      "lon": 139.748053,
+      "lat": 35.736825,
+      "line_cds": [
+        "11302",
+        "28009"
+      ]
+    },
+    {
+      "station_cd": "9930524",
+      "station_g_cd": "9930524",
+      "station_name": "向原",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "豊島区南大塚３",
+      "lon": 139.724894,
+      "lat": 35.728938,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "9930521",
+      "station_g_cd": "9930521",
+      "station_name": "庚申塚",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "豊島区西巣鴨３",
+      "lon": 139.729743,
+      "lat": 35.739563,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "2801010",
+      "station_g_cd": "2801010",
+      "station_name": "雑司が谷",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "豊島区雑司が谷二丁目",
+      "lon": 139.714795,
+      "lat": 35.720233,
+      "line_cds": [
+        "28010",
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "9930520",
+      "station_g_cd": "9930520",
+      "station_name": "新庚申塚",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "豊島区西巣鴨４",
+      "lon": 139.730451,
+      "lat": 35.741348,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "9930316",
+      "station_g_cd": "9930316",
+      "station_name": "西巣鴨",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "豊島区西巣鴨３-２５-１３",
+      "lon": 139.728712,
+      "lat": 35.743508,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2800607",
+      "station_g_cd": "2800607",
+      "station_name": "千川",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "東京都豊島区要町三丁目10-7",
+      "lon": 139.689271,
+      "lat": 35.738229,
+      "line_cds": [
+        "28006",
+        "28010"
+      ]
+    },
+    {
+      "station_cd": "1130214",
+      "station_g_cd": "1130214",
+      "station_name": "巣鴨",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "東京都豊島区巣鴨一丁目16-1",
+      "lon": 139.739303,
+      "lat": 35.733445,
+      "line_cds": [
+        "11302",
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "9930522",
+      "station_g_cd": "9930522",
+      "station_name": "巣鴨新田",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "豊島区西巣鴨１",
+      "lon": 139.727769,
+      "lat": 35.735488,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "1130213",
+      "station_g_cd": "1130213",
+      "station_name": "大塚",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "東京都豊島区南大塚三丁目33-1",
+      "lon": 139.728584,
+      "lat": 35.731412,
+      "line_cds": [
+        "11302",
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "1130212",
+      "station_g_cd": "1130212",
+      "station_name": "池袋",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "東京都豊島区南池袋一丁目28-2",
+      "lon": 139.711086,
+      "lat": 35.730256,
+      "line_cds": [
+        "11302",
+        "11321",
+        "11328",
+        "11333",
+        "21001",
+        "22001",
+        "28002",
+        "28006",
+        "28010"
+      ]
+    },
+    {
+      "station_cd": "2200102",
+      "station_g_cd": "2200102",
+      "station_name": "椎名町",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "豊島区長崎１-１-２２",
+      "lon": 139.694363,
+      "lat": 35.726572,
+      "line_cds": [
+        "22001"
+      ]
+    },
+    {
+      "station_cd": "9930526",
+      "station_g_cd": "9930526",
+      "station_name": "都電雑司ヶ谷",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "東京都豊島区南池袋",
+      "lon": 139.718006,
+      "lat": 35.724261,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "2800610",
+      "station_g_cd": "2800610",
+      "station_name": "東池袋",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "東京都豊島区東池袋四丁目4-4",
+      "lon": 139.719546,
+      "lat": 35.725732,
+      "line_cds": [
+        "28006",
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "2200103",
+      "station_g_cd": "2200103",
+      "station_name": "東長崎",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "豊島区長崎５-１-１",
+      "lon": 139.683294,
+      "lat": 35.73003,
+      "line_cds": [
+        "22001"
+      ]
+    },
+    {
+      "station_cd": "2100102",
+      "station_g_cd": "2100102",
+      "station_name": "北池袋",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "豊島区池袋本町１-３６-６",
+      "lon": 139.716749,
+      "lat": 35.741283,
+      "line_cds": [
+        "21001"
+      ]
+    },
+    {
+      "station_cd": "1130211",
+      "station_g_cd": "1130211",
+      "station_name": "目白",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "東京都豊島区目白三丁目3-1",
+      "lon": 139.706228,
+      "lat": 35.720476,
+      "line_cds": [
+        "11302"
+      ]
+    },
+    {
+      "station_cd": "2800608",
+      "station_g_cd": "2800608",
+      "station_name": "要町",
+      "station_name_k": "",
+      "ward": "豊島区",
+      "address": "東京都豊島区要町一丁目1-10",
+      "lon": 139.698715,
+      "lat": 35.73323,
+      "line_cds": [
+        "28006",
+        "28010"
+      ]
+    },
+    {
+      "station_cd": "9930515",
+      "station_g_cd": "9930515",
+      "station_name": "栄町",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区栄町",
+      "lon": 139.742124,
+      "lat": 35.750909,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "1133212",
+      "station_g_cd": "1133212",
+      "station_name": "王子",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区王子１丁目",
+      "lon": 139.73809,
+      "lat": 35.752538,
+      "line_cds": [
+        "11332",
+        "28009",
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "2800903",
+      "station_g_cd": "2800903",
+      "station_name": "王子神谷",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区王子５-２-１１",
+      "lon": 139.735933,
+      "lat": 35.765172,
+      "line_cds": [
+        "28009"
+      ]
+    },
+    {
+      "station_cd": "9930514",
+      "station_g_cd": "9930514",
+      "station_name": "梶原",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区堀船３",
+      "lon": 139.747403,
+      "lat": 35.751162,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "2800902",
+      "station_g_cd": "2800902",
+      "station_name": "志茂",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区志茂２-１-１８",
+      "lon": 139.732599,
+      "lat": 35.777948,
+      "line_cds": [
+        "28009"
+      ]
+    },
+    {
+      "station_cd": "1132107",
+      "station_g_cd": "1132107",
+      "station_name": "十条",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区上十条１丁目",
+      "lon": 139.722233,
+      "lat": 35.760321,
+      "line_cds": [
+        "11321"
+      ]
+    },
+    {
+      "station_cd": "1133213",
+      "station_g_cd": "1133213",
+      "station_name": "上中里",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区上中里１丁目",
+      "lon": 139.745769,
+      "lat": 35.74728,
+      "line_cds": [
+        "11332"
+      ]
+    },
+    {
+      "station_cd": "2800905",
+      "station_g_cd": "2800905",
+      "station_name": "西ケ原",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "東京都北区西ヶ原二丁目3-8",
+      "lon": 139.742322,
+      "lat": 35.746008,
+      "line_cds": [
+        "28009"
+      ]
+    },
+    {
+      "station_cd": "9930519",
+      "station_g_cd": "9930519",
+      "station_name": "西ヶ原四丁目",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "東京都北区西ヶ原四丁目",
+      "lon": 139.732779,
+      "lat": 35.744501,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "1131903",
+      "station_g_cd": "1131903",
+      "station_name": "赤羽",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区赤羽１丁目",
+      "lon": 139.720928,
+      "lat": 35.778026,
+      "line_cds": [
+        "11319",
+        "11321",
+        "11323",
+        "11332",
+        "11333"
+      ]
+    },
+    {
+      "station_cd": "2800901",
+      "station_g_cd": "2800901",
+      "station_name": "赤羽岩淵",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区赤羽１-５２-８",
+      "lon": 139.722103,
+      "lat": 35.783417,
+      "line_cds": [
+        "28009",
+        "99307"
+      ]
+    },
+    {
+      "station_cd": "9930518",
+      "station_g_cd": "9930518",
+      "station_name": "滝野川一丁目",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区滝野川１",
+      "lon": 139.735376,
+      "lat": 35.747374,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "1130216",
+      "station_g_cd": "1130216",
+      "station_name": "田端",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "東京都北区東田端一丁目17-1",
+      "lon": 139.761229,
+      "lat": 35.737781,
+      "line_cds": [
+        "11302",
+        "11332"
+      ]
+    },
+    {
+      "station_cd": "1133211",
+      "station_g_cd": "1133211",
+      "station_name": "東十条",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区東十条３丁目",
+      "lon": 139.726858,
+      "lat": 35.763803,
+      "line_cds": [
+        "11332"
+      ]
+    },
+    {
+      "station_cd": "9930517",
+      "station_g_cd": "9930517",
+      "station_name": "飛鳥山",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区滝野川１",
+      "lon": 139.737382,
+      "lat": 35.750248,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "1131902",
+      "station_g_cd": "1131902",
+      "station_name": "尾久",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区昭和町１丁目",
+      "lon": 139.753846,
+      "lat": 35.74683,
+      "line_cds": [
+        "11319",
+        "11323"
+      ]
+    },
+    {
+      "station_cd": "1132110",
+      "station_g_cd": "1132110",
+      "station_name": "浮間舟渡",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区浮間４丁目",
+      "lon": 139.691341,
+      "lat": 35.791209,
+      "line_cds": [
+        "11321"
+      ]
+    },
+    {
+      "station_cd": "1132109",
+      "station_g_cd": "1132109",
+      "station_name": "北赤羽",
+      "station_name_k": "",
+      "ward": "北区",
+      "address": "北区赤羽北２丁目",
+      "lon": 139.70569,
+      "lat": 35.787007,
+      "line_cds": [
+        "11321"
+      ]
+    },
+    {
+      "station_cd": "9930510",
+      "station_g_cd": "9930510",
+      "station_name": "宮ノ前",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区東尾久５",
+      "lon": 139.764955,
+      "lat": 35.750135,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "9930509",
+      "station_g_cd": "9930509",
+      "station_name": "熊野前",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区東尾久５",
+      "lon": 139.769204,
+      "lat": 35.749212,
+      "line_cds": [
+        "99305",
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "9930502",
+      "station_g_cd": "9930502",
+      "station_name": "荒川一中前",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区南千住１-１",
+      "lon": 139.788988,
+      "lat": 35.733659,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "9930503",
+      "station_g_cd": "9930503",
+      "station_name": "荒川区役所前",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区荒川１",
+      "lon": 139.786456,
+      "lat": 35.73493,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "9930505",
+      "station_g_cd": "9930505",
+      "station_name": "荒川七丁目",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区荒川７",
+      "lon": 139.78417,
+      "lat": 35.741975,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "9930513",
+      "station_g_cd": "9930513",
+      "station_name": "荒川車庫前",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区西尾久７",
+      "lon": 139.752617,
+      "lat": 35.750909,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "9930504",
+      "station_g_cd": "9930504",
+      "station_name": "荒川二丁目",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区荒川２",
+      "lon": 139.784696,
+      "lat": 35.738623,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "9930512",
+      "station_g_cd": "9930512",
+      "station_name": "荒川遊園地前",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区西尾久５",
+      "lon": 139.757767,
+      "lat": 35.750744,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "9930501",
+      "station_g_cd": "9930501",
+      "station_name": "三ノ輪橋",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区南千住１",
+      "lon": 139.791412,
+      "lat": 35.732248,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "1132003",
+      "station_g_cd": "1132003",
+      "station_name": "三河島",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区西日暮里１丁目",
+      "lon": 139.777131,
+      "lat": 35.733383,
+      "line_cds": [
+        "11320"
+      ]
+    },
+    {
+      "station_cd": "9930511",
+      "station_g_cd": "9930511",
+      "station_name": "小台",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区西尾久５",
+      "lon": 139.761779,
+      "lat": 35.750579,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "2300103",
+      "station_g_cd": "2300103",
+      "station_name": "新三河島",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区西日暮里６-２-１",
+      "lon": 139.773834,
+      "lat": 35.73714,
+      "line_cds": [
+        "23001"
+      ]
+    },
+    {
+      "station_cd": "1130217",
+      "station_g_cd": "1130217",
+      "station_name": "西日暮里",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "東京都荒川区西日暮里五丁目22-1",
+      "lon": 139.766857,
+      "lat": 35.731954,
+      "line_cds": [
+        "11302",
+        "11332",
+        "28005",
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "9934203",
+      "station_g_cd": "9934203",
+      "station_name": "赤土小学校前",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区東尾久４-７-７",
+      "lon": 139.768989,
+      "lat": 35.742454,
+      "line_cds": [
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "2300104",
+      "station_g_cd": "2300104",
+      "station_name": "町屋",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区町屋１丁目",
+      "lon": 139.781499,
+      "lat": 35.742354,
+      "line_cds": [
+        "23001",
+        "28005",
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "9930507",
+      "station_g_cd": "9930507",
+      "station_name": "町屋二丁目",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区荒川６",
+      "lon": 139.776625,
+      "lat": 35.743837,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "9930508",
+      "station_g_cd": "9930508",
+      "station_name": "東尾久三丁目",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区東尾久３",
+      "lon": 139.774386,
+      "lat": 35.745398,
+      "line_cds": [
+        "99305"
+      ]
+    },
+    {
+      "station_cd": "1132004",
+      "station_g_cd": "1132004",
+      "station_name": "南千住",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "荒川区南千住４丁目",
+      "lon": 139.7994,
+      "lat": 35.734033,
+      "line_cds": [
+        "11320",
+        "28003",
+        "99309"
+      ]
+    },
+    {
+      "station_cd": "1130218",
+      "station_g_cd": "1130218",
+      "station_name": "日暮里",
+      "station_name_k": "",
+      "ward": "荒川区",
+      "address": "東京都荒川区西日暮里二丁目19-1",
+      "lon": 139.771287,
+      "lat": 35.727908,
+      "line_cds": [
+        "11302",
+        "11320",
+        "11332",
+        "23001",
+        "23006",
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "2100106",
+      "station_g_cd": "2100106",
+      "station_name": "ときわ台",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区常盤台１-４３-１",
+      "lon": 139.689015,
+      "lat": 35.758771,
+      "line_cds": [
+        "21001"
+      ]
+    },
+    {
+      "station_cd": "2100109",
+      "station_g_cd": "2100109",
+      "station_name": "下赤塚",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区赤塚新町１-２３-１",
+      "lon": 139.644482,
+      "lat": 35.770558,
+      "line_cds": [
+        "21001",
+        "28006",
+        "28010"
+      ]
+    },
+    {
+      "station_cd": "9930325",
+      "station_g_cd": "9930325",
+      "station_name": "高島平",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区高島平８-２-１",
+      "lon": 139.661216,
+      "lat": 35.789056,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "9930321",
+      "station_g_cd": "9930321",
+      "station_name": "志村坂上",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区志村１-１４-１３",
+      "lon": 139.69538,
+      "lat": 35.775725,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "9930322",
+      "station_g_cd": "9930322",
+      "station_name": "志村三丁目",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区志村３-２３-１",
+      "lon": 139.685937,
+      "lat": 35.777391,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2100107",
+      "station_g_cd": "2100107",
+      "station_name": "上板橋",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区上板橋２-３６-７",
+      "lon": 139.67641,
+      "lat": 35.763596,
+      "line_cds": [
+        "21001"
+      ]
+    },
+    {
+      "station_cd": "9930326",
+      "station_g_cd": "9930326",
+      "station_name": "新高島平",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区高島平７-１",
+      "lon": 139.654275,
+      "lat": 35.790189,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "9930317",
+      "station_g_cd": "9930317",
+      "station_name": "新板橋",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区板橋１-５３-１７",
+      "lon": 139.720101,
+      "lat": 35.748785,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2100110",
+      "station_g_cd": "2100110",
+      "station_name": "成増",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区成増２-１３-１",
+      "lon": 139.632708,
+      "lat": 35.777723,
+      "line_cds": [
+        "21001",
+        "28006",
+        "28010"
+      ]
+    },
+    {
+      "station_cd": "9930327",
+      "station_g_cd": "9930327",
+      "station_name": "西高島平",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区高島平６-１",
+      "lon": 139.64594,
+      "lat": 35.791833,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "9930324",
+      "station_g_cd": "9930324",
+      "station_name": "西台",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区高島平９-１-１",
+      "lon": 139.673971,
+      "lat": 35.78699,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "2100104",
+      "station_g_cd": "2100104",
+      "station_name": "大山",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区大山町４-１",
+      "lon": 139.702589,
+      "lat": 35.748398,
+      "line_cds": [
+        "21001"
+      ]
+    },
+    {
+      "station_cd": "2100105",
+      "station_g_cd": "2100105",
+      "station_name": "中板橋",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区弥生町３３-１",
+      "lon": 139.694628,
+      "lat": 35.756214,
+      "line_cds": [
+        "21001"
+      ]
+    },
+    {
+      "station_cd": "2100108",
+      "station_g_cd": "2100108",
+      "station_name": "東武練馬",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区徳丸２-２-１４",
+      "lon": 139.661964,
+      "lat": 35.768698,
+      "line_cds": [
+        "21001"
+      ]
+    },
+    {
+      "station_cd": "1132106",
+      "station_g_cd": "1132106",
+      "station_name": "板橋",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区板橋１丁目",
+      "lon": 139.719507,
+      "lat": 35.745435,
+      "line_cds": [
+        "11321"
+      ]
+    },
+    {
+      "station_cd": "9930318",
+      "station_g_cd": "9930318",
+      "station_name": "板橋区役所前",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区板橋２-６６-１７",
+      "lon": 139.710102,
+      "lat": 35.751284,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "9930319",
+      "station_g_cd": "9930319",
+      "station_name": "板橋本町",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区大和町１７-１",
+      "lon": 139.705535,
+      "lat": 35.761339,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "9930320",
+      "station_g_cd": "9930320",
+      "station_name": "本蓮沼",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区蓮沼町１９-８",
+      "lon": 139.702324,
+      "lat": 35.768782,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "9930323",
+      "station_g_cd": "9930323",
+      "station_name": "蓮根",
+      "station_name_k": "",
+      "ward": "板橋区",
+      "address": "板橋区蓮根２-３１-３０",
+      "lon": 139.678993,
+      "lat": 35.784335,
+      "line_cds": [
+        "99303"
+      ]
+    },
+    {
+      "station_cd": "9930138",
+      "station_g_cd": "9930138",
+      "station_name": "光が丘",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区光が丘２-９-５",
+      "lon": 139.628603,
+      "lat": 35.758526,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2200104",
+      "station_g_cd": "2200104",
+      "station_name": "江古田",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区旭丘１-７８-７",
+      "lon": 139.672814,
+      "lat": 35.737557,
+      "line_cds": [
+        "22001"
+      ]
+    },
+    {
+      "station_cd": "2200105",
+      "station_g_cd": "2200105",
+      "station_name": "桜台",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区桜台１-５-１",
+      "lon": 139.662602,
+      "lat": 35.738797,
+      "line_cds": [
+        "22001"
+      ]
+    },
+    {
+      "station_cd": "2200301",
+      "station_g_cd": "2200301",
+      "station_name": "小竹向原",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "東京都練馬区小竹町二丁目16-15",
+      "lon": 139.678572,
+      "lat": 35.743803,
+      "line_cds": [
+        "22003",
+        "28006",
+        "28010"
+      ]
+    },
+    {
+      "station_cd": "2200713",
+      "station_g_cd": "2200713",
+      "station_name": "上石神井",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区上石神井１-２-４５",
+      "lon": 139.592266,
+      "lat": 35.726189,
+      "line_cds": [
+        "22007"
+      ]
+    },
+    {
+      "station_cd": "2200302",
+      "station_g_cd": "2200302",
+      "station_name": "新桜台",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区桜台１-２８-１１",
+      "lon": 139.6683,
+      "lat": 35.74077,
+      "line_cds": [
+        "22003"
+      ]
+    },
+    {
+      "station_cd": "2200110",
+      "station_g_cd": "2200110",
+      "station_name": "石神井公園",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区石神井町３-２３-１０",
+      "lon": 139.606981,
+      "lat": 35.743563,
+      "line_cds": [
+        "22001"
+      ]
+    },
+    {
+      "station_cd": "2200111",
+      "station_g_cd": "2200111",
+      "station_name": "大泉学園",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区東大泉１-２９-７",
+      "lon": 139.586732,
+      "lat": 35.749406,
+      "line_cds": [
+        "22001"
+      ]
+    },
+    {
+      "station_cd": "2200107",
+      "station_g_cd": "2200107",
+      "station_name": "中村橋",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区中村北４-２-１",
+      "lon": 139.637456,
+      "lat": 35.736767,
+      "line_cds": [
+        "22001"
+      ]
+    },
+    {
+      "station_cd": "2800605",
+      "station_g_cd": "2800605",
+      "station_name": "氷川台",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "東京都練馬区氷川台三丁目38-18",
+      "lon": 139.665567,
+      "lat": 35.74955,
+      "line_cds": [
+        "28006",
+        "28010"
+      ]
+    },
+    {
+      "station_cd": "2200108",
+      "station_g_cd": "2200108",
+      "station_name": "富士見台",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区貫井３-７-４",
+      "lon": 139.62969,
+      "lat": 35.735867,
+      "line_cds": [
+        "22001"
+      ]
+    },
+    {
+      "station_cd": "2200714",
+      "station_g_cd": "2200714",
+      "station_name": "武蔵関",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区関町北２-２９-１",
+      "lon": 139.576417,
+      "lat": 35.7276,
+      "line_cds": [
+        "22007"
+      ]
+    },
+    {
+      "station_cd": "2800604",
+      "station_g_cd": "2800604",
+      "station_name": "平和台",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "東京都練馬区早宮2-17-48",
+      "lon": 139.653762,
+      "lat": 35.757863,
+      "line_cds": [
+        "28006",
+        "28010"
+      ]
+    },
+    {
+      "station_cd": "2200402",
+      "station_g_cd": "2200402",
+      "station_name": "豊島園",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区練馬４-１６-５",
+      "lon": 139.647979,
+      "lat": 35.742054,
+      "line_cds": [
+        "22004",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2200106",
+      "station_g_cd": "2200106",
+      "station_name": "練馬",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区練馬１-３-５",
+      "lon": 139.654368,
+      "lat": 35.737893,
+      "line_cds": [
+        "22001",
+        "22003",
+        "22004",
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "2200109",
+      "station_g_cd": "2200109",
+      "station_name": "練馬高野台",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区高野台１-７-２７",
+      "lon": 139.616749,
+      "lat": 35.740622,
+      "line_cds": [
+        "22001"
+      ]
+    },
+    {
+      "station_cd": "9930137",
+      "station_g_cd": "9930137",
+      "station_name": "練馬春日町",
+      "station_name_k": "",
+      "ward": "練馬区",
+      "address": "練馬区春日町３-２９-２５",
+      "lon": 139.640236,
+      "lat": 35.751452,
+      "line_cds": [
+        "99301"
+      ]
+    },
+    {
+      "station_cd": "1132006",
+      "station_g_cd": "1132006",
+      "station_name": "綾瀬",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区綾瀬３丁目",
+      "lon": 139.825019,
+      "lat": 35.762222,
+      "line_cds": [
+        "11320",
+        "28005"
+      ]
+    },
+    {
+      "station_cd": "2100208",
+      "station_g_cd": "2100208",
+      "station_name": "牛田",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区千住曙町",
+      "lon": 139.811816,
+      "lat": 35.744555,
+      "line_cds": [
+        "21002",
+        "23001"
+      ]
+    },
+    {
+      "station_cd": "9934213",
+      "station_g_cd": "9934213",
+      "station_name": "見沼代親水公園",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区舎人２-２１-１３",
+      "lon": 139.770719,
+      "lat": 35.814544,
+      "line_cds": [
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "2100211",
+      "station_g_cd": "2100211",
+      "station_name": "五反野",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区足立３丁目",
+      "lon": 139.809643,
+      "lat": 35.765852,
+      "line_cds": [
+        "21002"
+      ]
+    },
+    {
+      "station_cd": "9934208",
+      "station_g_cd": "9934208",
+      "station_name": "江北",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区江北４-３０-２７",
+      "lon": 139.770306,
+      "lat": 35.774021,
+      "line_cds": [
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "9934207",
+      "station_g_cd": "9934207",
+      "station_name": "高野",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区扇２-４５-１",
+      "lon": 139.770679,
+      "lat": 35.768359,
+      "line_cds": [
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "9934212",
+      "station_g_cd": "9934212",
+      "station_name": "舎人",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区舎人１-１６-１５",
+      "lon": 139.770108,
+      "lat": 35.8057,
+      "line_cds": [
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "9934211",
+      "station_g_cd": "9934211",
+      "station_name": "舎人公園",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区舎人公園１-１０",
+      "lon": 139.770183,
+      "lat": 35.79623,
+      "line_cds": [
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "2100210",
+      "station_g_cd": "2100210",
+      "station_name": "小菅",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区足立２丁目",
+      "lon": 139.812935,
+      "lat": 35.759039,
+      "line_cds": [
+        "21002"
+      ]
+    },
+    {
+      "station_cd": "2100213",
+      "station_g_cd": "2100213",
+      "station_name": "西新井",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区西新井栄町２丁目",
+      "lon": 139.790372,
+      "lat": 35.777323,
+      "line_cds": [
+        "21002",
+        "21006"
+      ]
+    },
+    {
+      "station_cd": "9934209",
+      "station_g_cd": "9934209",
+      "station_name": "西新井大師西",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区江北６-３０-２３",
+      "lon": 139.770094,
+      "lat": 35.781505,
+      "line_cds": [
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "9930906",
+      "station_g_cd": "9930906",
+      "station_name": "青井",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区青井三丁目",
+      "lon": 139.82038,
+      "lat": 35.771782,
+      "line_cds": [
+        "99309"
+      ]
+    },
+    {
+      "station_cd": "2300105",
+      "station_g_cd": "2300105",
+      "station_name": "千住大橋",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区千住橋戸町１１-１",
+      "lon": 139.796934,
+      "lat": 35.74243,
+      "line_cds": [
+        "23001"
+      ]
+    },
+    {
+      "station_cd": "9934206",
+      "station_g_cd": "9934206",
+      "station_name": "扇大橋",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区扇２-２５-７",
+      "lon": 139.770808,
+      "lat": 35.763897,
+      "line_cds": [
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "9934205",
+      "station_g_cd": "9934205",
+      "station_name": "足立小台",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区小台１-２０-１",
+      "lon": 139.770381,
+      "lat": 35.754658,
+      "line_cds": [
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "2100602",
+      "station_g_cd": "2100602",
+      "station_name": "大師前",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区西新井１-３-１",
+      "lon": 139.781647,
+      "lat": 35.778989,
+      "line_cds": [
+        "21006"
+      ]
+    },
+    {
+      "station_cd": "9934210",
+      "station_g_cd": "9934210",
+      "station_name": "谷在家",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区谷在家３-２０-２３",
+      "lon": 139.770043,
+      "lat": 35.788774,
+      "line_cds": [
+        "99342"
+      ]
+    },
+    {
+      "station_cd": "2100214",
+      "station_g_cd": "2100214",
+      "station_name": "竹ノ塚",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区竹の塚６丁目",
+      "lon": 139.790788,
+      "lat": 35.794368,
+      "line_cds": [
+        "21002"
+      ]
+    },
+    {
+      "station_cd": "2100212",
+      "station_g_cd": "2100212",
+      "station_name": "梅島",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区梅田７丁目",
+      "lon": 139.797916,
+      "lat": 35.772437,
+      "line_cds": [
+        "21002"
+      ]
+    },
+    {
+      "station_cd": "2800501",
+      "station_g_cd": "2800501",
+      "station_name": "北綾瀬",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区谷中２丁目",
+      "lon": 139.832035,
+      "lat": 35.777117,
+      "line_cds": [
+        "28005"
+      ]
+    },
+    {
+      "station_cd": "1132005",
+      "station_g_cd": "1132005",
+      "station_name": "北千住",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区千住旭町",
+      "lon": 139.804872,
+      "lat": 35.749677,
+      "line_cds": [
+        "11320",
+        "21002",
+        "28003",
+        "28005",
+        "99309"
+      ]
+    },
+    {
+      "station_cd": "2100207",
+      "station_g_cd": "2100207",
+      "station_name": "堀切",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区千住曙町",
+      "lon": 139.817727,
+      "lat": 35.742977,
+      "line_cds": [
+        "21002"
+      ]
+    },
+    {
+      "station_cd": "9930907",
+      "station_g_cd": "9930907",
+      "station_name": "六町",
+      "station_name_k": "",
+      "ward": "足立区",
+      "address": "足立区六町四丁目",
+      "lon": 139.821816,
+      "lat": 35.784963,
+      "line_cds": [
+        "99309"
+      ]
+    },
+    {
+      "station_cd": "2300108",
+      "station_g_cd": "2300108",
+      "station_name": "お花茶屋",
+      "station_name_k": "",
+      "ward": "葛飾区",
+      "address": "葛飾区宝町２-３７-１",
+      "lon": 139.83988,
+      "lat": 35.747585,
+      "line_cds": [
+        "23001"
+      ]
+    },
+    {
+      "station_cd": "1132007",
+      "station_g_cd": "1132007",
+      "station_name": "亀有",
+      "station_name_k": "",
+      "ward": "葛飾区",
+      "address": "葛飾区亀有３",
+      "lon": 139.847573,
+      "lat": 35.766527,
+      "line_cds": [
+        "11320"
+      ]
+    },
+    {
+      "station_cd": "2300110",
+      "station_g_cd": "2300110",
+      "station_name": "京成高砂",
+      "station_name_k": "",
+      "ward": "葛飾区",
+      "address": "東京都葛飾区高砂五丁目28-1",
+      "lon": 139.866875,
+      "lat": 35.750932,
+      "line_cds": [
+        "23001",
+        "23002",
+        "23003",
+        "23006",
+        "99340"
+      ]
+    },
+    {
+      "station_cd": "2300205",
+      "station_g_cd": "2300205",
+      "station_name": "京成立石",
+      "station_name_k": "",
+      "ward": "葛飾区",
+      "address": "葛飾区立石４-２４-１",
+      "lon": 139.848558,
+      "lat": 35.738281,
+      "line_cds": [
+        "23002"
+      ]
+    },
+    {
+      "station_cd": "1132008",
+      "station_g_cd": "1132008",
+      "station_name": "金町",
+      "station_name_k": "",
+      "ward": "葛飾区",
+      "address": "葛飾区金町６丁目",
+      "lon": 139.870482,
+      "lat": 35.769582,
+      "line_cds": [
+        "11320",
+        "23003"
+      ]
+    },
+    {
+      "station_cd": "2300204",
+      "station_g_cd": "2300204",
+      "station_name": "四ツ木",
+      "station_name_k": "",
+      "ward": "葛飾区",
+      "address": "葛飾区四つ木１-１-１",
+      "lon": 139.834918,
+      "lat": 35.731962,
+      "line_cds": [
+        "23002"
+      ]
+    },
+    {
+      "station_cd": "2300302",
+      "station_g_cd": "2300302",
+      "station_name": "柴又",
+      "station_name_k": "",
+      "ward": "葛飾区",
+      "address": "葛飾区柴又４-８-１４",
+      "lon": 139.875188,
+      "lat": 35.756323,
+      "line_cds": [
+        "23003"
+      ]
+    },
+    {
+      "station_cd": "9934002",
+      "station_g_cd": "9934002",
+      "station_name": "新柴又",
+      "station_name_k": "",
+      "ward": "葛飾区",
+      "address": "葛飾区柴又５-７-１",
+      "lon": 139.879376,
+      "lat": 35.75101,
+      "line_cds": [
+        "99340"
+      ]
+    },
+    {
+      "station_cd": "1131325",
+      "station_g_cd": "1131325",
+      "station_name": "新小岩",
+      "station_name_k": "",
+      "ward": "葛飾区",
+      "address": "葛飾区新小岩１丁目",
+      "lon": 139.857777,
+      "lat": 35.716903,
+      "line_cds": [
+        "11313",
+        "11314"
+      ]
+    },
+    {
+      "station_cd": "2300109",
+      "station_g_cd": "2300109",
+      "station_name": "青砥",
+      "station_name_k": "",
+      "ward": "葛飾区",
+      "address": "東京都葛飾区青戸三丁目36番1号",
+      "lon": 139.856292,
+      "lat": 35.745883,
+      "line_cds": [
+        "23001",
+        "23002",
+        "23006"
+      ]
+    },
+    {
+      "station_cd": "2300107",
+      "station_g_cd": "2300107",
+      "station_name": "堀切菖蒲園",
+      "station_name_k": "",
+      "ward": "葛飾区",
+      "address": "葛飾区堀切５-１-１",
+      "lon": 139.827545,
+      "lat": 35.747649,
+      "line_cds": [
+        "23001"
+      ]
+    },
+    {
+      "station_cd": "9930418",
+      "station_g_cd": "9930418",
+      "station_name": "一之江",
+      "station_name_k": "",
+      "ward": "江戸川区",
+      "address": "江戸川区春江町４-２",
+      "lon": 139.882934,
+      "lat": 35.686055,
+      "line_cds": [
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "2800417",
+      "station_g_cd": "2800417",
+      "station_name": "葛西",
+      "station_name_k": "",
+      "ward": "江戸川区",
+      "address": "江戸川区中葛西５-４３-１１",
+      "lon": 139.872458,
+      "lat": 35.663554,
+      "line_cds": [
+        "28004"
+      ]
+    },
+    {
+      "station_cd": "1132606",
+      "station_g_cd": "1132606",
+      "station_name": "葛西臨海公園",
+      "station_name_k": "",
+      "ward": "江戸川区",
+      "address": "江戸川区臨海町６丁目",
+      "lon": 139.861529,
+      "lat": 35.644392,
+      "line_cds": [
+        "11326"
+      ]
+    },
+    {
+      "station_cd": "2300111",
+      "station_g_cd": "2300111",
+      "station_name": "京成小岩",
+      "station_name_k": "",
+      "ward": "江戸川区",
+      "address": "江戸川区北小岩２-１０-９",
+      "lon": 139.88371,
+      "lat": 35.742158,
+      "line_cds": [
+        "23001"
+      ]
+    },
+    {
+      "station_cd": "2300112",
+      "station_g_cd": "2300112",
+      "station_name": "江戸川",
+      "station_name_k": "",
+      "ward": "江戸川区",
+      "address": "江戸川区北小岩３-２４-１５",
+      "lon": 139.896226,
+      "lat": 35.737723,
+      "line_cds": [
+        "23001"
+      ]
+    },
+    {
+      "station_cd": "9930420",
+      "station_g_cd": "9930420",
+      "station_name": "篠崎",
+      "station_name_k": "",
+      "ward": "江戸川区",
+      "address": "江戸川区篠崎町７-２７-１",
+      "lon": 139.903698,
+      "lat": 35.706017,
+      "line_cds": [
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "1131326",
+      "station_g_cd": "1131326",
+      "station_name": "小岩",
+      "station_name_k": "",
+      "ward": "江戸川区",
+      "address": "江戸川区南小岩７丁目",
+      "lon": 139.881755,
+      "lat": 35.733207,
+      "line_cds": [
+        "11313"
+      ]
+    },
+    {
+      "station_cd": "9930419",
+      "station_g_cd": "9930419",
+      "station_name": "瑞江",
+      "station_name_k": "",
+      "ward": "江戸川区",
+      "address": "江戸川区瑞江２-２-１",
+      "lon": 139.89761,
+      "lat": 35.693318,
+      "line_cds": [
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "2800416",
+      "station_g_cd": "2800416",
+      "station_name": "西葛西",
+      "station_name_k": "",
+      "ward": "江戸川区",
+      "address": "江戸川区西葛西６-１４-１",
+      "lon": 139.859259,
+      "lat": 35.664631,
+      "line_cds": [
+        "28004"
+      ]
+    },
+    {
+      "station_cd": "9930417",
+      "station_g_cd": "9930417",
+      "station_name": "船堀",
+      "station_name_k": "",
+      "ward": "江戸川区",
+      "address": "江戸川区船堀３-６-１",
+      "lon": 139.864258,
+      "lat": 35.683795,
+      "line_cds": [
+        "99304"
+      ]
+    },
+    {
+      "station_cd": "1131324",
+      "station_g_cd": "1131324",
+      "station_name": "平井",
+      "station_name_k": "",
+      "ward": "江戸川区",
+      "address": "江戸川区平井３丁目",
+      "lon": 139.842181,
+      "lat": 35.70643,
+      "line_cds": [
+        "11313"
+      ]
+    },
+    { "station_cd": "extra_1", "station_g_cd": "extra_1", "station_name": "横浜", "station_name_k": "", "ward": "神奈川県", "address": "", "lon": 139.6224, "lat": 35.4658, "line_cds": [] },
+    { "station_cd": "extra_2", "station_g_cd": "extra_2", "station_name": "川崎", "station_name_k": "", "ward": "神奈川県", "address": "", "lon": 139.7006, "lat": 35.5312, "line_cds": [] },
+    { "station_cd": "extra_3", "station_g_cd": "extra_3", "station_name": "武蔵小杉", "station_name_k": "", "ward": "神奈川県", "address": "", "lon": 139.6601, "lat": 35.5761, "line_cds": [] },
+    { "station_cd": "extra_4", "station_g_cd": "extra_4", "station_name": "新横浜", "station_name_k": "", "ward": "神奈川県", "address": "", "lon": 139.6183, "lat": 35.5079, "line_cds": [] },
+    { "station_cd": "extra_5", "station_g_cd": "extra_5", "station_name": "大宮", "station_name_k": "", "ward": "埼玉県", "address": "", "lon": 139.6364, "lat": 35.9065, "line_cds": [] },
+    { "station_cd": "extra_6", "station_g_cd": "extra_6", "station_name": "浦和", "station_name_k": "", "ward": "埼玉県", "address": "", "lon": 139.6571, "lat": 35.8585, "line_cds": [] },
+    { "station_cd": "extra_7", "station_g_cd": "extra_7", "station_name": "船橋", "station_name_k": "", "ward": "千葉県", "address": "", "lon": 139.9851, "lat": 35.7018, "line_cds": [] },
+    { "station_cd": "extra_8", "station_g_cd": "extra_8", "station_name": "海浜幕張", "station_name_k": "", "ward": "千葉県", "address": "", "lon": 140.0261, "lat": 35.6417, "line_cds": [] },
+    { "station_cd": "extra_9", "station_g_cd": "extra_9", "station_name": "柏", "station_name_k": "", "ward": "千葉県", "address": "", "lon": 139.9756, "lat": 35.8617, "line_cds": [] },
+    { "station_cd": "extra_10", "station_g_cd": "extra_10", "station_name": "町田", "station_name_k": "", "ward": "東京都", "address": "", "lon": 139.4454, "lat": 35.5417, "line_cds": [] }
+  ]
+}

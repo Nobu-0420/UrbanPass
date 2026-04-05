@@ -1,0 +1,776 @@
+{
+  "_comment": "ウェブ診断・LINE順位診断で共通利用。station_outputlist_all.csv から build-stations-json.js で生成。",
+  "updated": "2026-02-17",
+  "stations": [
+    {
+      "name": "大岡山",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "自由が丘",
+      "rank": "S",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "代々木上原",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "二子玉川",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "成城学園前",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "広尾",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "白金高輪",
+      "rank": "S",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "恵比寿",
+      "rank": "S",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "目黒",
+      "rank": "S",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "本駒込",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "駒込",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "茗荷谷",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "神楽坂",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "麻布十番",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "代官山",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "中目黒",
+      "rank": "S",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "学芸大学",
+      "rank": "S",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "田園調布",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "奥沢",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "尾山台",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "上野毛",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "代々木公園",
+      "rank": "S",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "千駄ヶ谷",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "市ヶ谷",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "四ツ谷",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "神泉",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "六本木",
+      "rank": "S",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "表参道",
+      "rank": "S",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "駒沢大学",
+      "rank": "S",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "三軒茶屋",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "荏原町",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "旗の台",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "西小山",
+      "rank": "P",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "武蔵小山",
+      "rank": "S",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "大井町",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "豊洲",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "月島",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "勝どき",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "清澄白河",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "門前仲町",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "北千住",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "三鷹",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "吉祥寺",
+      "rank": "S",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "荻窪",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "阿佐ヶ谷",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "笹塚",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "経堂",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "千歳船橋",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "桜新町",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "用賀",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "都立大学",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "祐天寺",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "池尻大橋",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "浜田山",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "永福町",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "久我山",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "仙川",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "成増",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "練馬",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "石神井公園",
+      "rank": "P",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "赤羽",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "王子",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "日暮里",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "蔵前",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "人形町",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "浜町",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "築地",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "田町",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "練馬春日町",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "光が丘",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "高井戸",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "方南町",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "新中野",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "東中野",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "中野",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "西荻窪",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "上石神井",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "鷺ノ宮",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "江古田",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "千駄木",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "根津",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "谷中(日暮里)",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "森下",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "菊川",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "木場",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "東陽町",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "西葛西",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "葛西",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "瑞江",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "船堀",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "青物横丁",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "立会川",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "蒲田",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "京急蒲田",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "池上",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "雪が谷大塚",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "御嶽山",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "石川台",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "洗足",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "戸越銀座",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "不動前",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "戸越公園",
+      "rank": "P",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "中延",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "西大井",
+      "rank": "P",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "馬込",
+      "rank": "B",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "西馬込",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "世田谷代田",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "桜上水",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "田端",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "有明",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "新浦安",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "武蔵浦和",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "流山おおたかの森",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "武蔵小杉",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "たまプラーザ",
+      "rank": "A",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "浦和",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "市川",
+      "rank": "A",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "さいたま新都心",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "新松戸",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "海浜幕張",
+      "rank": "P",
+      "is_quiet_selection": false
+    },
+    {
+      "name": "緑が丘",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "北千束",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "富士見ヶ丘",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "井の頭公園",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "上北沢",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "松原",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "喜多見",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "高輪台",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "代々木八幡",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "下落合",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "白山",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "江戸川橋",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "上野桜木",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "南青山",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "赤羽西",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "王子本町",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "善福寺",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "和光市",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "田無",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "分倍河原",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "聖蹟桜ヶ丘",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "多摩センター",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "青葉台",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "あざみ野",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "日吉",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "大倉山",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "菊名",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "目白",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "巣鴨",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "大泉学園",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "国立",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "等々力",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "九品仏",
+      "rank": "B",
+      "is_quiet_selection": true
+    },
+    {
+      "name": "久が原",
+      "rank": "B",
+      "is_quiet_selection": true
+    }
+  ]
+}

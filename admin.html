@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>管理者用 — 居住駅診断 (Urban Pass)</title>
+  <script>
+    // 管理者用: 同じ診断ページを admin=1 付きで開く（SharedStationView が isAdmin: true で表示）
+    var base = window.location.pathname.replace(/\/admin\.html$/i, '/index.html') || '/index.html';
+    window.location.replace(base + '?admin=1');
+  </script>
+  <body>
+    <p>管理者用ページへリダイレクトしています…</p>
+    <p><a href="index.html?admin=1">ここをクリック</a>して診断ページを開く</p>
+  </body>
+</html>

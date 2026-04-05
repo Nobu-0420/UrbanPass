@@ -3,19 +3,18 @@ import { Noto_Sans_JP, Noto_Serif_JP } from 'next/font/google';
 
 const notoSans = Noto_Sans_JP({
   subsets: ['latin'],
-  weight: ['400', '500', '700'],
   variable: '--font-noto-sans',
   display: 'swap',
 });
 const notoSerif = Noto_Serif_JP({
   subsets: ['latin'],
-  weight: ['200', '300', '400', '500', '600', '700', '900'],
+  weight: ['400', '600', '700'],
   variable: '--font-noto-serif',
   display: 'swap',
 });
 
 export const metadata = {
-  title: 'Urbanpass — 合わせるのは、不動産の方だ。',
+  title: 'Swappee — 合わせるのは、不動産の方だ。',
   description: 'Property fits your life.',
 };
 

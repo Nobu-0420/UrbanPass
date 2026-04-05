@@ -1,5 +1,4 @@
 {
-  "name": "urbanpass",
   "buildCommand": "npm run build",
-  "outputDirectory": "dist"
+  "outputDirectory": "out"
 }
