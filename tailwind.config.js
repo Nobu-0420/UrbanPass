@@ -17,7 +17,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ['var(--font-noto-sans)', 'sans-serif'],
-        serif: ['var(--font-noto-serif)', 'serif'],
+        serif: ['"Noto Serif JP"', 'Yu Mincho', 'Hiragino Mincho ProN', 'serif'],
       },
     },
   },
