@@ -1,23 +1,28 @@
 import React from 'react'
 
+const SWAPPEE_LOGO_SRC = '/Swappee_logo.svg'
+
 // =============================================================================
 // ヒーローセクション：ファーストビュー（白背景・中央配置・ロゴアニメーション）
 // =============================================================================
 function HeroSection() {
   return (
     <section className="min-h-screen flex flex-col items-center justify-center bg-white px-4 py-16 md:py-24">
-      {/* 仮置きロゴ：ギリシャ文字 θ をモチーフにしたシンボル（表示時にふわっと出現＋軽く浮かぶアニメーション） */}
       <div className="mb-6 md:mb-8 animate-float">
         <div
-          className="w-24 h-24 md:w-32 md:h-32 rounded-full border-2 border-navy flex items-center justify-center bg-white/80 hero-logo-reveal"
+          className="hero-logo-reveal flex items-center justify-center"
           style={{
             opacity: 0,
             transform: 'translateY(20px)',
           }}
         >
-          <span className="text-5xl md:text-6xl font-serif text-navy" style={{ fontFamily: 'Georgia, serif' }}>
-            θ
-          </span>
+          <img
+            src={SWAPPEE_LOGO_SRC}
+            alt="Swappee"
+            className="w-44 h-auto md:w-56 max-w-[min(100%,280px)] object-contain"
+            width={280}
+            height={280}
+          />
         </div>
       </div>
 
@@ -213,8 +218,14 @@ function ConceptDiagramSection() {
           </div>
           {/* 光の矢印 → AIエンジン */}
           <div className="flex justify-center mb-4">
-            <div className="w-16 h-16 rounded-2xl bg-gradient-to-br from-emerald to-navy flex items-center justify-center shadow-lg concept-ai-icon relative">
-              <span className="text-2xl font-serif text-white" style={{ fontFamily: 'Georgia, serif' }}>θ</span>
+            <div className="w-full max-w-[200px] md:max-w-[240px] rounded-2xl bg-gradient-to-br from-emerald to-navy flex items-center justify-center shadow-lg concept-ai-icon relative p-3 md:p-4">
+              <img
+                src={SWAPPEE_LOGO_SRC}
+                alt=""
+                className="w-full h-auto object-contain"
+                width={240}
+                height={240}
+              />
             </div>
           </div>
           <p className="text-center text-[10px] text-emerald font-semibold mb-2">AI都市生活最適化エンジン</p>
@@ -347,11 +358,14 @@ function Footer() {
   return (
     <footer id="cta" className="bg-navy text-white py-12 px-4">
       <div className="max-w-5xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
-        <div className="flex items-center gap-2">
-          <span className="text-2xl font-serif" style={{ fontFamily: 'Georgia, serif' }}>
-            θ
-          </span>
-          <span className="font-bold tracking-wider">Swappee</span>
+        <div className="flex items-center">
+          <img
+            src={SWAPPEE_LOGO_SRC}
+            alt="Swappee"
+            className="h-9 md:h-10 w-auto object-contain"
+            width={200}
+            height={80}
+          />
         </div>
         <div className="flex gap-6 text-sm text-white/80">
           <a href="#!" className="hover:text-emerald transition-colors" aria-label="Twitter（ダミー）">
